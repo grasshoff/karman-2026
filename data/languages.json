@@ -1,0 +1,111 @@
+{
+ "keys": [
+  "english",
+  "german",
+  "french",
+  "hungarian",
+  "italian",
+  "spanish",
+  "other",
+  ""
+ ],
+ "labels": {
+  "english": "Englisch",
+  "german": "Deutsch",
+  "french": "Französisch",
+  "hungarian": "Ungarisch",
+  "italian": "Italienisch",
+  "spanish": "Spanisch",
+  "other": "Andere",
+  "": "Ohne Angabe"
+ },
+ "decades": [
+  {
+   "decade": 1900,
+   "english": 11,
+   "german": 11,
+   "french": 2,
+   "hungarian": 40,
+   "italian": 0,
+   "spanish": 0,
+   "other": 1,
+   "": 0
+  },
+  {
+   "decade": 1910,
+   "english": 29,
+   "german": 80,
+   "french": 6,
+   "hungarian": 5,
+   "italian": 1,
+   "spanish": 0,
+   "other": 1,
+   "": 0
+  },
+  {
+   "decade": 1920,
+   "english": 135,
+   "german": 1181,
+   "french": 46,
+   "hungarian": 48,
+   "italian": 2,
+   "spanish": 1,
+   "other": 6,
+   "": 0
+  },
+  {
+   "decade": 1930,
+   "english": 1527,
+   "german": 423,
+   "french": 69,
+   "hungarian": 32,
+   "italian": 5,
+   "spanish": 0,
+   "other": 5,
+   "": 0
+  },
+  {
+   "decade": 1940,
+   "english": 2797,
+   "german": 55,
+   "french": 38,
+   "hungarian": 27,
+   "italian": 3,
+   "spanish": 7,
+   "other": 4,
+   "": 0
+  },
+  {
+   "decade": 1950,
+   "english": 1445,
+   "german": 124,
+   "french": 81,
+   "hungarian": 33,
+   "italian": 25,
+   "spanish": 31,
+   "other": 5,
+   "": 0
+  },
+  {
+   "decade": 1960,
+   "english": 300,
+   "german": 16,
+   "french": 18,
+   "hungarian": 28,
+   "italian": 3,
+   "spanish": 5,
+   "other": 1,
+   "": 0
+  }
+ ],
+ "totals": {
+  "english": 11029,
+  "french": 448,
+  "": 35,
+  "hungarian": 270,
+  "italian": 61,
+  "german": 2815,
+  "other": 427,
+  "spanish": 64
+ }
+}

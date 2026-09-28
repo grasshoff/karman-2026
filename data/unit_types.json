@@ -1,0 +1,62 @@
+[
+ {
+  "type": "letter",
+  "label": "Brief",
+  "n": 5676
+ },
+ {
+  "type": "note",
+  "label": "Notiz",
+  "n": 3903
+ },
+ {
+  "type": "report",
+  "label": "Bericht",
+  "n": 3347
+ },
+ {
+  "type": "enclosure",
+  "label": "Beilage",
+  "n": 885
+ },
+ {
+  "type": "other",
+  "label": "Sonstiges",
+  "n": 478
+ },
+ {
+  "type": "telegram",
+  "label": "Telegramm",
+  "n": 420
+ },
+ {
+  "type": "memo",
+  "label": "Memorandum",
+  "n": 417
+ },
+ {
+  "type": "postcard",
+  "label": "Postkarte",
+  "n": 12
+ },
+ {
+  "type": "envelope",
+  "label": "Umschlag",
+  "n": 5
+ },
+ {
+  "type": "invoice",
+  "label": "Rechnung",
+  "n": 3
+ },
+ {
+  "type": "drawing",
+  "label": "Zeichnung",
+  "n": 2
+ },
+ {
+  "type": "medical report",
+  "label": "Ärztlicher Bericht",
+  "n": 1
+ }
+]

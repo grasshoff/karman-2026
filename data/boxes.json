@@ -1,0 +1,1412 @@
+{
+ "groups": [
+  {
+   "id": "personen",
+   "label": "Korrespondenz mit Personen, A–Z",
+   "boxes": [
+    [
+     1,
+     33
+    ]
+   ]
+  },
+  {
+   "id": "organisationen",
+   "label": "Gesellschaften, Akademien, Organisationen",
+   "boxes": [
+    [
+     34,
+     55
+    ]
+   ]
+  },
+  {
+   "id": "firmen",
+   "label": "Firmen und Verlage",
+   "boxes": [
+    [
+     56,
+     69
+    ]
+   ]
+  },
+  {
+   "id": "hochschulen",
+   "label": "Hochschulen und Institute",
+   "boxes": [
+    [
+     70,
+     81
+    ]
+   ]
+  },
+  {
+   "id": "behoerden",
+   "label": "Regierungsstellen und Militär",
+   "boxes": [
+    [
+     82,
+     96
+    ]
+   ]
+  },
+  {
+   "id": "sachakten",
+   "label": "Sachakten und Projekte",
+   "boxes": [
+    [
+     97,
+     116
+    ]
+   ]
+  },
+  {
+   "id": "werke",
+   "label": "Vorlesungen und Manuskripte",
+   "boxes": [
+    [
+     117,
+     123
+    ]
+   ]
+  },
+  {
+   "id": "fremde",
+   "label": "Sonderdrucke und Arbeiten anderer Autoren",
+   "boxes": [
+    [
+     124,
+     133
+    ]
+   ]
+  },
+  {
+   "id": "ehrungen",
+   "label": "Ehrungen und Geburtstage",
+   "boxes": [
+    [
+     134,
+     138
+    ]
+   ]
+  },
+  {
+   "id": "familie",
+   "label": "Familie",
+   "boxes": [
+    [
+     139,
+     145
+    ]
+   ]
+  },
+  {
+   "id": "finanzen",
+   "label": "Finanzen und Rechtliches",
+   "boxes": [
+    [
+     146,
+     154
+    ]
+   ]
+  },
+  {
+   "id": "presse",
+   "label": "Presse und Öffentlichkeit",
+   "boxes": [
+    [
+     155,
+     157
+    ]
+   ]
+  }
+ ],
+ "boxes": [
+  {
+   "box": 1,
+   "group": "personen",
+   "folders": 47,
+   "scans": 1072,
+   "pdai_docs": 47,
+   "pdai_pages": 1072
+  },
+  {
+   "box": 2,
+   "group": "personen",
+   "folders": 50,
+   "scans": 1198,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 3,
+   "group": "personen",
+   "folders": 35,
+   "scans": 1081,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 4,
+   "group": "personen",
+   "folders": 35,
+   "scans": 961,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 5,
+   "group": "personen",
+   "folders": 45,
+   "scans": 918,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 6,
+   "group": "personen",
+   "folders": 45,
+   "scans": 881,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 7,
+   "group": "personen",
+   "folders": 43,
+   "scans": 988,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 8,
+   "group": "personen",
+   "folders": 39,
+   "scans": 944,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 9,
+   "group": "personen",
+   "folders": 42,
+   "scans": 938,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 10,
+   "group": "personen",
+   "folders": 31,
+   "scans": 1024,
+   "pdai_docs": 31,
+   "pdai_pages": 1024
+  },
+  {
+   "box": 11,
+   "group": "personen",
+   "folders": 43,
+   "scans": 1027,
+   "pdai_docs": 43,
+   "pdai_pages": 1027
+  },
+  {
+   "box": 12,
+   "group": "personen",
+   "folders": 41,
+   "scans": 931,
+   "pdai_docs": 41,
+   "pdai_pages": 931
+  },
+  {
+   "box": 13,
+   "group": "personen",
+   "folders": 42,
+   "scans": 1035,
+   "pdai_docs": 42,
+   "pdai_pages": 994
+  },
+  {
+   "box": 14,
+   "group": "personen",
+   "folders": 50,
+   "scans": 933,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 15,
+   "group": "personen",
+   "folders": 41,
+   "scans": 1031,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 16,
+   "group": "personen",
+   "folders": 40,
+   "scans": 990,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 17,
+   "group": "personen",
+   "folders": 51,
+   "scans": 983,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 18,
+   "group": "personen",
+   "folders": 44,
+   "scans": 1016,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 19,
+   "group": "personen",
+   "folders": 60,
+   "scans": 1166,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 20,
+   "group": "personen",
+   "folders": 44,
+   "scans": 1158,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 21,
+   "group": "personen",
+   "folders": 57,
+   "scans": 1044,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 22,
+   "group": "personen",
+   "folders": 45,
+   "scans": 991,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 23,
+   "group": "personen",
+   "folders": 46,
+   "scans": 1077,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 24,
+   "group": "personen",
+   "folders": 49,
+   "scans": 1018,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 25,
+   "group": "personen",
+   "folders": 31,
+   "scans": 1104,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 26,
+   "group": "personen",
+   "folders": 37,
+   "scans": 1135,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 27,
+   "group": "personen",
+   "folders": 47,
+   "scans": 1049,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 28,
+   "group": "personen",
+   "folders": 59,
+   "scans": 1100,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 29,
+   "group": "personen",
+   "folders": 44,
+   "scans": 1205,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 30,
+   "group": "personen",
+   "folders": 42,
+   "scans": 945,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 31,
+   "group": "personen",
+   "folders": 43,
+   "scans": 858,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 32,
+   "group": "personen",
+   "folders": 45,
+   "scans": 1078,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 33,
+   "group": "personen",
+   "folders": 38,
+   "scans": 1066,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 34,
+   "group": "organisationen",
+   "folders": 27,
+   "scans": 1212,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 35,
+   "group": "organisationen",
+   "folders": 23,
+   "scans": 1037,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 36,
+   "group": "organisationen",
+   "folders": 21,
+   "scans": 952,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 37,
+   "group": "organisationen",
+   "folders": 27,
+   "scans": 936,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 38,
+   "group": "organisationen",
+   "folders": 22,
+   "scans": 1112,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 39,
+   "group": "organisationen",
+   "folders": 24,
+   "scans": 1060,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 40,
+   "group": "organisationen",
+   "folders": 23,
+   "scans": 791,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 41,
+   "group": "organisationen",
+   "folders": 18,
+   "scans": 693,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 42,
+   "group": "organisationen",
+   "folders": 24,
+   "scans": 1013,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 43,
+   "group": "organisationen",
+   "folders": 17,
+   "scans": 862,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 44,
+   "group": "organisationen",
+   "folders": 19,
+   "scans": 935,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 45,
+   "group": "organisationen",
+   "folders": 18,
+   "scans": 819,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 46,
+   "group": "organisationen",
+   "folders": 16,
+   "scans": 747,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 47,
+   "group": "organisationen",
+   "folders": 22,
+   "scans": 845,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 48,
+   "group": "organisationen",
+   "folders": 20,
+   "scans": 574,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 49,
+   "group": "organisationen",
+   "folders": 20,
+   "scans": 899,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 50,
+   "group": "organisationen",
+   "folders": 21,
+   "scans": 953,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 51,
+   "group": "organisationen",
+   "folders": 19,
+   "scans": 851,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 52,
+   "group": "organisationen",
+   "folders": 24,
+   "scans": 771,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 53,
+   "group": "organisationen",
+   "folders": 20,
+   "scans": 954,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 54,
+   "group": "organisationen",
+   "folders": 20,
+   "scans": 891,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 55,
+   "group": "organisationen",
+   "folders": 19,
+   "scans": 957,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 56,
+   "group": "firmen",
+   "folders": 24,
+   "scans": 892,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 57,
+   "group": "firmen",
+   "folders": 25,
+   "scans": 776,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 58,
+   "group": "firmen",
+   "folders": 21,
+   "scans": 881,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 59,
+   "group": "firmen",
+   "folders": 27,
+   "scans": 1155,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 60,
+   "group": "firmen",
+   "folders": 24,
+   "scans": 925,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 61,
+   "group": "firmen",
+   "folders": 17,
+   "scans": 834,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 62,
+   "group": "firmen",
+   "folders": 19,
+   "scans": 838,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 63,
+   "group": "firmen",
+   "folders": 25,
+   "scans": 946,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 64,
+   "group": "firmen",
+   "folders": 27,
+   "scans": 1134,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 65,
+   "group": "firmen",
+   "folders": 23,
+   "scans": 987,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 66,
+   "group": "firmen",
+   "folders": 25,
+   "scans": 1192,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 67,
+   "group": "firmen",
+   "folders": 27,
+   "scans": 960,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 68,
+   "group": "firmen",
+   "folders": 28,
+   "scans": 808,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 69,
+   "group": "firmen",
+   "folders": 29,
+   "scans": 849,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 70,
+   "group": "hochschulen",
+   "folders": 23,
+   "scans": 945,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 71,
+   "group": "hochschulen",
+   "folders": 20,
+   "scans": 969,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 72,
+   "group": "hochschulen",
+   "folders": 26,
+   "scans": 1075,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 73,
+   "group": "hochschulen",
+   "folders": 25,
+   "scans": 1066,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 74,
+   "group": "hochschulen",
+   "folders": 24,
+   "scans": 1008,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 75,
+   "group": "hochschulen",
+   "folders": 32,
+   "scans": 862,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 76,
+   "group": "hochschulen",
+   "folders": 27,
+   "scans": 755,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 77,
+   "group": "hochschulen",
+   "folders": 21,
+   "scans": 876,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 78,
+   "group": "hochschulen",
+   "folders": 30,
+   "scans": 692,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 79,
+   "group": "hochschulen",
+   "folders": 28,
+   "scans": 878,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 80,
+   "group": "hochschulen",
+   "folders": 45,
+   "scans": 1169,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 81,
+   "group": "hochschulen",
+   "folders": 24,
+   "scans": 862,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 82,
+   "group": "behoerden",
+   "folders": 22,
+   "scans": 1063,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 83,
+   "group": "behoerden",
+   "folders": 25,
+   "scans": 1184,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 84,
+   "group": "behoerden",
+   "folders": 20,
+   "scans": 1015,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 85,
+   "group": "behoerden",
+   "folders": 20,
+   "scans": 951,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 86,
+   "group": "behoerden",
+   "folders": 21,
+   "scans": 885,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 87,
+   "group": "behoerden",
+   "folders": 20,
+   "scans": 807,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 88,
+   "group": "behoerden",
+   "folders": 20,
+   "scans": 899,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 89,
+   "group": "behoerden",
+   "folders": 20,
+   "scans": 870,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 90,
+   "group": "behoerden",
+   "folders": 23,
+   "scans": 1104,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 91,
+   "group": "behoerden",
+   "folders": 25,
+   "scans": 1133,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 92,
+   "group": "behoerden",
+   "folders": 23,
+   "scans": 1036,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 93,
+   "group": "behoerden",
+   "folders": 15,
+   "scans": 756,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 94,
+   "group": "behoerden",
+   "folders": 21,
+   "scans": 547,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 95,
+   "group": "behoerden",
+   "folders": 17,
+   "scans": 892,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 96,
+   "group": "behoerden",
+   "folders": 25,
+   "scans": 1133,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 97,
+   "group": "sachakten",
+   "folders": 20,
+   "scans": 918,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 98,
+   "group": "sachakten",
+   "folders": 22,
+   "scans": 714,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 99,
+   "group": "sachakten",
+   "folders": 29,
+   "scans": 894,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 100,
+   "group": "sachakten",
+   "folders": 24,
+   "scans": 1035,
+   "pdai_docs": 24,
+   "pdai_pages": 1035
+  },
+  {
+   "box": 101,
+   "group": "sachakten",
+   "folders": 22,
+   "scans": 1043,
+   "pdai_docs": 22,
+   "pdai_pages": 1043
+  },
+  {
+   "box": 102,
+   "group": "sachakten",
+   "folders": 22,
+   "scans": 1206,
+   "pdai_docs": 22,
+   "pdai_pages": 1206
+  },
+  {
+   "box": 103,
+   "group": "sachakten",
+   "folders": 20,
+   "scans": 1209,
+   "pdai_docs": 20,
+   "pdai_pages": 1209
+  },
+  {
+   "box": 104,
+   "group": "sachakten",
+   "folders": 22,
+   "scans": 1144,
+   "pdai_docs": 22,
+   "pdai_pages": 1144
+  },
+  {
+   "box": 105,
+   "group": "sachakten",
+   "folders": 23,
+   "scans": 1046,
+   "pdai_docs": 23,
+   "pdai_pages": 1046
+  },
+  {
+   "box": 106,
+   "group": "sachakten",
+   "folders": 27,
+   "scans": 1296,
+   "pdai_docs": 27,
+   "pdai_pages": 1296
+  },
+  {
+   "box": 107,
+   "group": "sachakten",
+   "folders": 30,
+   "scans": 1301,
+   "pdai_docs": 30,
+   "pdai_pages": 1301
+  },
+  {
+   "box": 108,
+   "group": "sachakten",
+   "folders": 26,
+   "scans": 1059,
+   "pdai_docs": 26,
+   "pdai_pages": 1059
+  },
+  {
+   "box": 109,
+   "group": "sachakten",
+   "folders": 20,
+   "scans": 893,
+   "pdai_docs": 20,
+   "pdai_pages": 893
+  },
+  {
+   "box": 110,
+   "group": "sachakten",
+   "folders": 20,
+   "scans": 806,
+   "pdai_docs": 20,
+   "pdai_pages": 806
+  },
+  {
+   "box": 111,
+   "group": "sachakten",
+   "folders": 21,
+   "scans": 1045,
+   "pdai_docs": 21,
+   "pdai_pages": 1045
+  },
+  {
+   "box": 112,
+   "group": "sachakten",
+   "folders": 18,
+   "scans": 889,
+   "pdai_docs": 18,
+   "pdai_pages": 889
+  },
+  {
+   "box": 113,
+   "group": "sachakten",
+   "folders": 18,
+   "scans": 689,
+   "pdai_docs": 18,
+   "pdai_pages": 689
+  },
+  {
+   "box": 114,
+   "group": "sachakten",
+   "folders": 17,
+   "scans": 718,
+   "pdai_docs": 17,
+   "pdai_pages": 718
+  },
+  {
+   "box": 115,
+   "group": "sachakten",
+   "folders": 19,
+   "scans": 937,
+   "pdai_docs": 19,
+   "pdai_pages": 937
+  },
+  {
+   "box": 116,
+   "group": "sachakten",
+   "folders": 19,
+   "scans": 941,
+   "pdai_docs": 19,
+   "pdai_pages": 941
+  },
+  {
+   "box": 117,
+   "group": "werke",
+   "folders": 26,
+   "scans": 1052,
+   "pdai_docs": 26,
+   "pdai_pages": 1052
+  },
+  {
+   "box": 118,
+   "group": "werke",
+   "folders": 52,
+   "scans": 1144,
+   "pdai_docs": 52,
+   "pdai_pages": 1144
+  },
+  {
+   "box": 119,
+   "group": "werke",
+   "folders": 40,
+   "scans": 1189,
+   "pdai_docs": 40,
+   "pdai_pages": 1189
+  },
+  {
+   "box": 120,
+   "group": "werke",
+   "folders": 26,
+   "scans": 969,
+   "pdai_docs": 26,
+   "pdai_pages": 969
+  },
+  {
+   "box": 121,
+   "group": "werke",
+   "folders": 26,
+   "scans": 881,
+   "pdai_docs": 26,
+   "pdai_pages": 881
+  },
+  {
+   "box": 122,
+   "group": "werke",
+   "folders": 28,
+   "scans": 987,
+   "pdai_docs": 28,
+   "pdai_pages": 987
+  },
+  {
+   "box": 123,
+   "group": "werke",
+   "folders": 37,
+   "scans": 1019,
+   "pdai_docs": 37,
+   "pdai_pages": 1019
+  },
+  {
+   "box": 124,
+   "group": "fremde",
+   "folders": 34,
+   "scans": 785,
+   "pdai_docs": 34,
+   "pdai_pages": 785
+  },
+  {
+   "box": 125,
+   "group": "fremde",
+   "folders": 27,
+   "scans": 1130,
+   "pdai_docs": 27,
+   "pdai_pages": 1130
+  },
+  {
+   "box": 126,
+   "group": "fremde",
+   "folders": 30,
+   "scans": 1004,
+   "pdai_docs": 30,
+   "pdai_pages": 1004
+  },
+  {
+   "box": 127,
+   "group": "fremde",
+   "folders": 25,
+   "scans": 871,
+   "pdai_docs": 25,
+   "pdai_pages": 871
+  },
+  {
+   "box": 128,
+   "group": "fremde",
+   "folders": 32,
+   "scans": 1066,
+   "pdai_docs": 32,
+   "pdai_pages": 1066
+  },
+  {
+   "box": 129,
+   "group": "fremde",
+   "folders": 27,
+   "scans": 885,
+   "pdai_docs": 27,
+   "pdai_pages": 885
+  },
+  {
+   "box": 130,
+   "group": "fremde",
+   "folders": 33,
+   "scans": 1042,
+   "pdai_docs": 33,
+   "pdai_pages": 1042
+  },
+  {
+   "box": 131,
+   "group": "fremde",
+   "folders": 30,
+   "scans": 997,
+   "pdai_docs": 30,
+   "pdai_pages": 997
+  },
+  {
+   "box": 132,
+   "group": "fremde",
+   "folders": 27,
+   "scans": 1034,
+   "pdai_docs": 21,
+   "pdai_pages": 846
+  },
+  {
+   "box": 133,
+   "group": "fremde",
+   "folders": 28,
+   "scans": 908,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 134,
+   "group": "ehrungen",
+   "folders": 34,
+   "scans": 474,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 135,
+   "group": "ehrungen",
+   "folders": 19,
+   "scans": 790,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 136,
+   "group": "ehrungen",
+   "folders": 10,
+   "scans": 459,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 137,
+   "group": "ehrungen",
+   "folders": 9,
+   "scans": 460,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 138,
+   "group": "ehrungen",
+   "folders": 9,
+   "scans": 221,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 139,
+   "group": "familie",
+   "folders": 27,
+   "scans": 1182,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 140,
+   "group": "familie",
+   "folders": 20,
+   "scans": 879,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 141,
+   "group": "familie",
+   "folders": 20,
+   "scans": 789,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 142,
+   "group": "familie",
+   "folders": 19,
+   "scans": 944,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 143,
+   "group": "familie",
+   "folders": 20,
+   "scans": 985,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 144,
+   "group": "familie",
+   "folders": 19,
+   "scans": 818,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 145,
+   "group": "familie",
+   "folders": 18,
+   "scans": 856,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 146,
+   "group": "finanzen",
+   "folders": 23,
+   "scans": 1017,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 147,
+   "group": "finanzen",
+   "folders": 8,
+   "scans": 349,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 148,
+   "group": "finanzen",
+   "folders": 10,
+   "scans": 460,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 149,
+   "group": "finanzen",
+   "folders": 8,
+   "scans": 270,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 150,
+   "group": "finanzen",
+   "folders": 6,
+   "scans": 219,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 151,
+   "group": "finanzen",
+   "folders": 8,
+   "scans": 231,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 152,
+   "group": "finanzen",
+   "folders": 8,
+   "scans": 345,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 153,
+   "group": "finanzen",
+   "folders": 12,
+   "scans": 476,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 154,
+   "group": "finanzen",
+   "folders": 7,
+   "scans": 195,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 155,
+   "group": "presse",
+   "folders": 12,
+   "scans": 333,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 156,
+   "group": "presse",
+   "folders": 12,
+   "scans": 228,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  },
+  {
+   "box": 157,
+   "group": "presse",
+   "folders": 12,
+   "scans": 361,
+   "pdai_docs": 0,
+   "pdai_pages": 0
+  }
+ ],
+ "sections": [
+  {
+   "section": "I",
+   "name": "Personal Correspondence (Korrespondenz mit Personen)",
+   "box_min": 1,
+   "box_max": 13,
+   "n_cover_sheets": 37
+  },
+  {
+   "section": "VII",
+   "name": "Technical Files (Sachakten)",
+   "box_min": 100,
+   "box_max": 114,
+   "n_cover_sheets": 195
+  },
+  {
+   "section": "VIII",
+   "name": "Publication Correspondence (Korrespondenz zu Publikationen)",
+   "box_min": 115,
+   "box_max": 116,
+   "n_cover_sheets": 27
+  },
+  {
+   "section": "IX",
+   "name": "Manuscripts (Manuskripte)",
+   "box_min": 117,
+   "box_max": 132,
+   "n_cover_sheets": 341
+  }
+ ]
+}

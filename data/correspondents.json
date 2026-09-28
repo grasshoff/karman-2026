@@ -1,0 +1,1578 @@
+{
+ "variant_candidates": [
+  [
+   {
+    "id": 9685,
+    "name": "Putnam, P. C.",
+    "n": 114
+   },
+   {
+    "id": 12059,
+    "name": "Putnam, Palmer C.",
+    "n": 9
+   },
+   {
+    "id": 12043,
+    "name": "Putnam, Palmer Cosslett",
+    "n": 8
+   }
+  ],
+  [
+   {
+    "id": 12258,
+    "name": "Hoff, Nicholas J.",
+    "n": 37
+   },
+   {
+    "id": 6680,
+    "name": "Hoff, N. J.",
+    "n": 7
+   }
+  ],
+  [
+   {
+    "id": 3992,
+    "name": "Barrett, E. C.",
+    "n": 36
+   },
+   {
+    "id": 3869,
+    "name": "Barrett, Edward C.",
+    "n": 7
+   }
+  ],
+  [
+   {
+    "id": 12456,
+    "name": "Wilbur, J. B.",
+    "n": 33
+   },
+   {
+    "id": 12447,
+    "name": "Wilbur, John B.",
+    "n": 20
+   }
+  ],
+  [
+   {
+    "id": 3798,
+    "name": "Andrew, Chas. E.",
+    "n": 32
+   },
+   {
+    "id": 4011,
+    "name": "Andrew, Charles E.",
+    "n": 28
+   }
+  ],
+  [
+   {
+    "id": 18165,
+    "name": "Heiman, Eric E.",
+    "n": 27
+   },
+   {
+    "id": 13790,
+    "name": "Heiman, E. E.",
+    "n": 17
+   }
+  ],
+  [
+   {
+    "id": 2235,
+    "name": "Sears, W. R.",
+    "n": 25
+   },
+   {
+    "id": 7898,
+    "name": "Sears, William R.",
+    "n": 15
+   }
+  ],
+  [
+   {
+    "id": 10785,
+    "name": "Goldstein, Sydney",
+    "n": 17
+   },
+   {
+    "id": 1369,
+    "name": "Goldstein, Sidney",
+    "n": 9
+   }
+  ],
+  [
+   {
+    "id": 9809,
+    "name": "Gilles, August",
+    "n": 15
+   },
+   {
+    "id": 10271,
+    "name": "Gilles, A.",
+    "n": 5
+   }
+  ],
+  [
+   {
+    "id": 22187,
+    "name": "Horovitz, George",
+    "n": 15
+   },
+   {
+    "id": 22172,
+    "name": "Horovitz, Georg",
+    "n": 5
+   }
+  ],
+  [
+   {
+    "id": 9067,
+    "name": "Weismann, Charles",
+    "n": 14
+   },
+   {
+    "id": 9088,
+    "name": "Weismann, Ch.",
+    "n": 8
+   }
+  ],
+  [
+   {
+    "id": 943,
+    "name": "Arnstein, Bertl",
+    "n": 11
+   },
+   {
+    "id": 993,
+    "name": "Arnstein, Bertha",
+    "n": 6
+   }
+  ],
+  [
+   {
+    "id": 11944,
+    "name": "Gutehoffnungshütte, Aktiengesellschaft für Bergbau und Hüttenbetrieb",
+    "n": 11
+   },
+   {
+    "id": 11939,
+    "name": "Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb",
+    "n": 5
+   }
+  ],
+  [
+   {
+    "id": 12044,
+    "name": "Smith, B. E.",
+    "n": 11
+   },
+   {
+    "id": 12448,
+    "name": "Smith, Burwell B.",
+    "n": 6
+   }
+  ],
+  [
+   {
+    "id": 3342,
+    "name": "Friedrichs, Kurt",
+    "n": 10
+   },
+   {
+    "id": 3359,
+    "name": "Friedrichs, Kurt O.",
+    "n": 7
+   }
+  ],
+  [
+   {
+    "id": 8949,
+    "name": "Yuan, Shao Wen",
+    "n": 7
+   },
+   {
+    "id": 8966,
+    "name": "Yuan, S. W.",
+    "n": 6
+   }
+  ],
+  [
+   {
+    "id": 11609,
+    "name": "Giannini, Gabriel M.",
+    "n": 7
+   },
+   {
+    "id": 11657,
+    "name": "Giannini, Gabriel",
+    "n": 5
+   }
+  ],
+  [
+   {
+    "id": 1827,
+    "name": "Adler, Edward",
+    "n": 4
+   },
+   {
+    "id": 1833,
+    "name": "Adler, Edward D.",
+    "n": 4
+   }
+  ]
+ ],
+ "top": [
+  {
+   "id": 9813,
+   "name": "Herzfeld, H.",
+   "kind": "person",
+   "n": 217,
+   "out": 34,
+   "in": 183,
+   "first": 1921,
+   "last": 1933
+  },
+  {
+   "id": 116,
+   "name": "Gabrielli, Giuseppe",
+   "kind": "person",
+   "n": 170,
+   "out": 35,
+   "in": 135,
+   "first": 1925,
+   "last": 1962
+  },
+  {
+   "id": 415,
+   "name": "Angus, Robert W.",
+   "kind": "person",
+   "n": 151,
+   "out": 2,
+   "in": 149,
+   "first": 1928,
+   "last": 1942
+  },
+  {
+   "id": 9685,
+   "name": "Putnam, P. C.",
+   "kind": "person",
+   "n": 114,
+   "out": 20,
+   "in": 94,
+   "first": 1935,
+   "last": 1946
+  },
+  {
+   "id": 3098,
+   "name": "Guggenheim, Harry F.",
+   "kind": "person",
+   "n": 55,
+   "out": 18,
+   "in": 37,
+   "first": 1926,
+   "last": 1963
+  },
+  {
+   "id": 10755,
+   "name": "Haley, Andrew G.",
+   "kind": "person",
+   "n": 45,
+   "out": 12,
+   "in": 33,
+   "first": 1941,
+   "last": 1962
+  },
+  {
+   "id": 939,
+   "name": "Arnstein, Karl",
+   "kind": "person",
+   "n": 43,
+   "out": 15,
+   "in": 28,
+   "first": 1924,
+   "last": 1961
+  },
+  {
+   "id": 10761,
+   "name": "Gehlhoff, Georg",
+   "kind": "person",
+   "n": 43,
+   "out": 21,
+   "in": 22,
+   "first": 1920,
+   "last": 1925
+  },
+  {
+   "id": 2797,
+   "name": "Gardner, Lester D.",
+   "kind": "person",
+   "n": 41,
+   "out": 13,
+   "in": 28,
+   "first": 1914,
+   "last": 1956
+  },
+  {
+   "id": 10776,
+   "name": "Hopf, Ludwig",
+   "kind": "person",
+   "n": 39,
+   "out": 11,
+   "in": 28,
+   "first": 1920,
+   "last": 1936
+  },
+  {
+   "id": 3610,
+   "name": "Fulton, Garland",
+   "kind": "person",
+   "n": 38,
+   "out": 19,
+   "in": 19,
+   "first": 1932,
+   "last": 1961
+  },
+  {
+   "id": 12258,
+   "name": "Hoff, Nicholas J.",
+   "kind": "person",
+   "n": 37,
+   "out": 11,
+   "in": 26,
+   "first": 1939,
+   "last": 1961
+  },
+  {
+   "id": 6867,
+   "name": "Gaylord, J. M.",
+   "kind": "person",
+   "n": 36,
+   "out": 23,
+   "in": 13,
+   "first": 1934,
+   "last": 1939
+  },
+  {
+   "id": 3992,
+   "name": "Barrett, E. C.",
+   "kind": "person",
+   "n": 36,
+   "out": 36,
+   "in": 0,
+   "first": 1937,
+   "last": 1941
+  },
+  {
+   "id": 3235,
+   "name": "Ammann, O. H.",
+   "kind": "person",
+   "n": 35,
+   "out": 11,
+   "in": 24,
+   "first": 1940,
+   "last": 1946
+  },
+  {
+   "id": 14604,
+   "name": "Harrington, R. Paul",
+   "kind": "person",
+   "n": 35,
+   "out": 12,
+   "in": 23,
+   "first": 1932,
+   "last": 1962
+  },
+  {
+   "id": 3393,
+   "name": "Fromm, Karl",
+   "kind": "person",
+   "n": 34,
+   "out": 8,
+   "in": 26,
+   "first": 1921,
+   "last": 1929
+  },
+  {
+   "id": 12456,
+   "name": "Wilbur, J. B.",
+   "kind": "person",
+   "n": 33,
+   "out": 11,
+   "in": 22,
+   "first": 1940,
+   "last": 1943
+  },
+  {
+   "id": 3798,
+   "name": "Andrew, Chas. E.",
+   "kind": "person",
+   "n": 32,
+   "out": 10,
+   "in": 22,
+   "first": 1941,
+   "last": 1945
+  },
+  {
+   "id": 76,
+   "name": "Alperin, Morton",
+   "kind": "person",
+   "n": 31,
+   "out": 6,
+   "in": 25,
+   "first": 1945,
+   "last": 1955
+  },
+  {
+   "id": 6944,
+   "name": "Hollander, Aladar",
+   "kind": "person",
+   "n": 29,
+   "out": 8,
+   "in": 21,
+   "first": 1923,
+   "last": 1954
+  },
+  {
+   "id": 4011,
+   "name": "Andrew, Charles E.",
+   "kind": "person",
+   "n": 28,
+   "out": 7,
+   "in": 21,
+   "first": 1941,
+   "last": 1950
+  },
+  {
+   "id": 4773,
+   "name": "Kelley, E. F.",
+   "kind": "person",
+   "n": 27,
+   "out": 3,
+   "in": 24,
+   "first": 1943,
+   "last": 1955
+  },
+  {
+   "id": 3189,
+   "name": "Gutehoffnungshütte",
+   "kind": "institution",
+   "n": 27,
+   "out": 10,
+   "in": 17,
+   "first": 1920,
+   "last": 1928
+  },
+  {
+   "id": 18165,
+   "name": "Heiman, Eric E.",
+   "kind": "person",
+   "n": 27,
+   "out": 6,
+   "in": 21,
+   "first": 1948,
+   "last": 1959
+  },
+  {
+   "id": 6955,
+   "name": "Walter, R. F.",
+   "kind": "person",
+   "n": 26,
+   "out": 21,
+   "in": 5,
+   "first": 1937,
+   "last": 1940
+  },
+  {
+   "id": 13793,
+   "name": "Parker, A. K.",
+   "kind": "person",
+   "n": 26,
+   "out": 7,
+   "in": 19,
+   "first": 1955,
+   "last": 1957
+  },
+  {
+   "id": 2235,
+   "name": "Sears, W. R.",
+   "kind": "person",
+   "n": 25,
+   "out": 6,
+   "in": 19,
+   "first": 1939,
+   "last": 1955
+  },
+  {
+   "id": 3715,
+   "name": "Farquharson, F. B.",
+   "kind": "person",
+   "n": 24,
+   "out": 2,
+   "in": 22,
+   "first": 1940,
+   "last": 1956
+  },
+  {
+   "id": 6984,
+   "name": "Barnes, D. P.",
+   "kind": "person",
+   "n": 23,
+   "out": 0,
+   "in": 23,
+   "first": 1938,
+   "last": 1940
+  },
+  {
+   "id": 2534,
+   "name": "Meyers, Ethel",
+   "kind": "person",
+   "n": 22,
+   "out": 1,
+   "in": 21,
+   "first": 1947,
+   "last": 1947
+  },
+  {
+   "id": 9692,
+   "name": "Bolza, Hans",
+   "kind": "person",
+   "n": 22,
+   "out": 7,
+   "in": 15,
+   "first": 1925,
+   "last": 1928
+  },
+  {
+   "id": 12067,
+   "name": "Haines, John F.",
+   "kind": "person",
+   "n": 22,
+   "out": 3,
+   "in": 19,
+   "first": 1939,
+   "last": 1941
+  },
+  {
+   "id": 762,
+   "name": "Armandias, L. S.",
+   "kind": "person",
+   "n": 21,
+   "out": 5,
+   "in": 16,
+   "first": 1947,
+   "last": 1962
+  },
+  {
+   "id": 3709,
+   "name": "Woodruff, Glenn B.",
+   "kind": "person",
+   "n": 21,
+   "out": 3,
+   "in": 18,
+   "first": 1940,
+   "last": 1946
+  },
+  {
+   "id": 12139,
+   "name": "Troller, Th.",
+   "kind": "person",
+   "n": 21,
+   "out": 8,
+   "in": 13,
+   "first": 1940,
+   "last": 1940
+  },
+  {
+   "id": 12450,
+   "name": "Wilcox, Carl J.",
+   "kind": "person",
+   "n": 21,
+   "out": 3,
+   "in": 18,
+   "first": 1940,
+   "last": 1950
+  },
+  {
+   "id": 3446,
+   "name": "Fromm, Carl",
+   "kind": "person",
+   "n": 20,
+   "out": 7,
+   "in": 13,
+   "first": 1932,
+   "last": 1936
+  },
+  {
+   "id": 3193,
+   "name": "Reichspatentamt",
+   "kind": "institution",
+   "n": 20,
+   "out": 10,
+   "in": 10,
+   "first": 1922,
+   "last": 1934
+  },
+  {
+   "id": 9815,
+   "name": "Dowell &amp; Dowell",
+   "kind": "institution",
+   "n": 20,
+   "out": 4,
+   "in": 16,
+   "first": 1932,
+   "last": 1934
+  }
+ ],
+ "network": {
+  "nodes": [
+   {
+    "id": 8,
+    "name": "Kármán, Theodore von",
+    "kind": "person",
+    "n": 5068,
+    "center": true
+   },
+   {
+    "id": 9813,
+    "name": "Herzfeld, H.",
+    "kind": "person",
+    "n": 217,
+    "first": 1921
+   },
+   {
+    "id": 116,
+    "name": "Gabrielli, Giuseppe",
+    "kind": "person",
+    "n": 170,
+    "first": 1925
+   },
+   {
+    "id": 415,
+    "name": "Angus, Robert W.",
+    "kind": "person",
+    "n": 151,
+    "first": 1928
+   },
+   {
+    "id": 9685,
+    "name": "Putnam, P. C.",
+    "kind": "person",
+    "n": 114,
+    "first": 1935
+   },
+   {
+    "id": 3098,
+    "name": "Guggenheim, Harry F.",
+    "kind": "person",
+    "n": 55,
+    "first": 1926
+   },
+   {
+    "id": 10755,
+    "name": "Haley, Andrew G.",
+    "kind": "person",
+    "n": 45,
+    "first": 1941
+   },
+   {
+    "id": 939,
+    "name": "Arnstein, Karl",
+    "kind": "person",
+    "n": 43,
+    "first": 1924
+   },
+   {
+    "id": 10761,
+    "name": "Gehlhoff, Georg",
+    "kind": "person",
+    "n": 43,
+    "first": 1920
+   },
+   {
+    "id": 2797,
+    "name": "Gardner, Lester D.",
+    "kind": "person",
+    "n": 41,
+    "first": 1914
+   },
+   {
+    "id": 10776,
+    "name": "Hopf, Ludwig",
+    "kind": "person",
+    "n": 39,
+    "first": 1920
+   },
+   {
+    "id": 3610,
+    "name": "Fulton, Garland",
+    "kind": "person",
+    "n": 38,
+    "first": 1932
+   },
+   {
+    "id": 12258,
+    "name": "Hoff, Nicholas J.",
+    "kind": "person",
+    "n": 37,
+    "first": 1939
+   },
+   {
+    "id": 6867,
+    "name": "Gaylord, J. M.",
+    "kind": "person",
+    "n": 36,
+    "first": 1934
+   },
+   {
+    "id": 3992,
+    "name": "Barrett, E. C.",
+    "kind": "person",
+    "n": 36,
+    "first": 1937
+   },
+   {
+    "id": 3235,
+    "name": "Ammann, O. H.",
+    "kind": "person",
+    "n": 35,
+    "first": 1940
+   },
+   {
+    "id": 14604,
+    "name": "Harrington, R. Paul",
+    "kind": "person",
+    "n": 35,
+    "first": 1932
+   },
+   {
+    "id": 3393,
+    "name": "Fromm, Karl",
+    "kind": "person",
+    "n": 34,
+    "first": 1921
+   },
+   {
+    "id": 12456,
+    "name": "Wilbur, J. B.",
+    "kind": "person",
+    "n": 33,
+    "first": 1940
+   },
+   {
+    "id": 3798,
+    "name": "Andrew, Chas. E.",
+    "kind": "person",
+    "n": 32,
+    "first": 1941
+   },
+   {
+    "id": 76,
+    "name": "Alperin, Morton",
+    "kind": "person",
+    "n": 31,
+    "first": 1945
+   },
+   {
+    "id": 6944,
+    "name": "Hollander, Aladar",
+    "kind": "person",
+    "n": 29,
+    "first": 1923
+   },
+   {
+    "id": 4011,
+    "name": "Andrew, Charles E.",
+    "kind": "person",
+    "n": 28,
+    "first": 1941
+   },
+   {
+    "id": 4773,
+    "name": "Kelley, E. F.",
+    "kind": "person",
+    "n": 27,
+    "first": 1943
+   },
+   {
+    "id": 3189,
+    "name": "Gutehoffnungshütte",
+    "kind": "institution",
+    "n": 27,
+    "first": 1920
+   },
+   {
+    "id": 18165,
+    "name": "Heiman, Eric E.",
+    "kind": "person",
+    "n": 27,
+    "first": 1948
+   },
+   {
+    "id": 6955,
+    "name": "Walter, R. F.",
+    "kind": "person",
+    "n": 26,
+    "first": 1937
+   },
+   {
+    "id": 13793,
+    "name": "Parker, A. K.",
+    "kind": "person",
+    "n": 26,
+    "first": 1955
+   },
+   {
+    "id": 2235,
+    "name": "Sears, W. R.",
+    "kind": "person",
+    "n": 25,
+    "first": 1939
+   },
+   {
+    "id": 3715,
+    "name": "Farquharson, F. B.",
+    "kind": "person",
+    "n": 24,
+    "first": 1940
+   },
+   {
+    "id": 6984,
+    "name": "Barnes, D. P.",
+    "kind": "person",
+    "n": 23,
+    "first": 1938
+   },
+   {
+    "id": 2534,
+    "name": "Meyers, Ethel",
+    "kind": "person",
+    "n": 22,
+    "first": 1947
+   },
+   {
+    "id": 9692,
+    "name": "Bolza, Hans",
+    "kind": "person",
+    "n": 22,
+    "first": 1925
+   },
+   {
+    "id": 12067,
+    "name": "Haines, John F.",
+    "kind": "person",
+    "n": 22,
+    "first": 1939
+   },
+   {
+    "id": 762,
+    "name": "Armandias, L. S.",
+    "kind": "person",
+    "n": 21,
+    "first": 1947
+   },
+   {
+    "id": 3709,
+    "name": "Woodruff, Glenn B.",
+    "kind": "person",
+    "n": 21,
+    "first": 1940
+   },
+   {
+    "id": 12139,
+    "name": "Troller, Th.",
+    "kind": "person",
+    "n": 21,
+    "first": 1940
+   },
+   {
+    "id": 12450,
+    "name": "Wilcox, Carl J.",
+    "kind": "person",
+    "n": 21,
+    "first": 1940
+   },
+   {
+    "id": 3446,
+    "name": "Fromm, Carl",
+    "kind": "person",
+    "n": 20,
+    "first": 1932
+   },
+   {
+    "id": 3193,
+    "name": "Reichspatentamt",
+    "kind": "institution",
+    "n": 20,
+    "first": 1922
+   },
+   {
+    "id": 9815,
+    "name": "Dowell &amp; Dowell",
+    "kind": "institution",
+    "n": 20,
+    "first": 1932
+   },
+   {
+    "id": 11137,
+    "name": "Greinacher, Richard",
+    "kind": "person",
+    "n": 20,
+    "first": 1941
+   },
+   {
+    "id": 12447,
+    "name": "Wilbur, John B.",
+    "kind": "person",
+    "n": 20,
+    "first": 1940
+   },
+   {
+    "id": 11025,
+    "name": "Grammel, R.",
+    "kind": "person",
+    "n": 19,
+    "first": 1924
+   },
+   {
+    "id": 17823,
+    "name": "Hartenberg, Richard S.",
+    "kind": "person",
+    "n": 19,
+    "first": 1928
+   },
+   {
+    "id": 21834,
+    "name": "Hoff, Wilhelm",
+    "kind": "person",
+    "n": 19,
+    "first": 1924
+   },
+   {
+    "id": 12142,
+    "name": "Petterssen, Sverre",
+    "kind": "person",
+    "n": 18,
+    "first": 1940
+   },
+   {
+    "id": 2051,
+    "name": "Gabrielli, Lydia",
+    "kind": "person",
+    "n": 17,
+    "first": 1946
+   },
+   {
+    "id": 3182,
+    "name": "Gauger, Ernst",
+    "kind": "person",
+    "n": 17,
+    "first": 1929
+   },
+   {
+    "id": 4771,
+    "name": "McCullough, C. B.",
+    "kind": "person",
+    "n": 17,
+    "first": 1943
+   },
+   {
+    "id": 10785,
+    "name": "Goldstein, Sydney",
+    "kind": "person",
+    "n": 17,
+    "first": 1934
+   },
+   {
+    "id": 12699,
+    "name": "Howson and Howson",
+    "kind": "person",
+    "n": 17,
+    "first": 1940
+   },
+   {
+    "id": 13790,
+    "name": "Heiman, E. E.",
+    "kind": "person",
+    "n": 17,
+    "first": 1948
+   },
+   {
+    "id": 22237,
+    "name": "Hort, Wilhelm",
+    "kind": "person",
+    "n": 17,
+    "first": 1920
+   },
+   {
+    "id": 1110,
+    "name": "Ackeret, Jacob",
+    "kind": "person",
+    "n": 16,
+    "first": 1935
+   },
+   {
+    "id": 10901,
+    "name": "Goldziher, Károly",
+    "kind": "person",
+    "n": 16,
+    "first": 1901
+   },
+   {
+    "id": 13787,
+    "name": "Gutmann, M.",
+    "kind": "person",
+    "n": 16,
+    "first": 1929
+   },
+   {
+    "id": 438,
+    "name": "Anderlik, Előd",
+    "kind": "person",
+    "n": 15,
+    "first": 1926
+   },
+   {
+    "id": 9809,
+    "name": "Gilles, August",
+    "kind": "person",
+    "n": 15,
+    "first": 1926
+   },
+   {
+    "id": 10600,
+    "name": "Glantzberg, Frederic E.",
+    "kind": "person",
+    "n": 15,
+    "first": 1947
+   },
+   {
+    "id": 7898,
+    "name": "Sears, William R.",
+    "kind": "person",
+    "n": 15,
+    "first": 1939
+   }
+  ],
+  "links": [
+   {
+    "source": 8,
+    "target": 9813,
+    "n": 217
+   },
+   {
+    "source": 8,
+    "target": 116,
+    "n": 170
+   },
+   {
+    "source": 8,
+    "target": 415,
+    "n": 151
+   },
+   {
+    "source": 8,
+    "target": 9685,
+    "n": 114
+   },
+   {
+    "source": 8,
+    "target": 3098,
+    "n": 55
+   },
+   {
+    "source": 8,
+    "target": 10755,
+    "n": 45
+   },
+   {
+    "source": 8,
+    "target": 939,
+    "n": 43
+   },
+   {
+    "source": 8,
+    "target": 10761,
+    "n": 43
+   },
+   {
+    "source": 8,
+    "target": 2797,
+    "n": 41
+   },
+   {
+    "source": 8,
+    "target": 10776,
+    "n": 39
+   },
+   {
+    "source": 8,
+    "target": 3610,
+    "n": 38
+   },
+   {
+    "source": 8,
+    "target": 12258,
+    "n": 37
+   },
+   {
+    "source": 8,
+    "target": 6867,
+    "n": 36
+   },
+   {
+    "source": 8,
+    "target": 3992,
+    "n": 36
+   },
+   {
+    "source": 8,
+    "target": 3235,
+    "n": 35
+   },
+   {
+    "source": 8,
+    "target": 14604,
+    "n": 35
+   },
+   {
+    "source": 8,
+    "target": 3393,
+    "n": 34
+   },
+   {
+    "source": 8,
+    "target": 12456,
+    "n": 33
+   },
+   {
+    "source": 8,
+    "target": 3798,
+    "n": 32
+   },
+   {
+    "source": 8,
+    "target": 76,
+    "n": 31
+   },
+   {
+    "source": 8,
+    "target": 6944,
+    "n": 29
+   },
+   {
+    "source": 8,
+    "target": 4011,
+    "n": 28
+   },
+   {
+    "source": 8,
+    "target": 4773,
+    "n": 27
+   },
+   {
+    "source": 8,
+    "target": 3189,
+    "n": 27
+   },
+   {
+    "source": 8,
+    "target": 18165,
+    "n": 27
+   },
+   {
+    "source": 8,
+    "target": 6955,
+    "n": 26
+   },
+   {
+    "source": 8,
+    "target": 13793,
+    "n": 26
+   },
+   {
+    "source": 8,
+    "target": 2235,
+    "n": 25
+   },
+   {
+    "source": 8,
+    "target": 3715,
+    "n": 24
+   },
+   {
+    "source": 8,
+    "target": 6984,
+    "n": 23
+   },
+   {
+    "source": 8,
+    "target": 2534,
+    "n": 22
+   },
+   {
+    "source": 8,
+    "target": 9692,
+    "n": 22
+   },
+   {
+    "source": 8,
+    "target": 12067,
+    "n": 22
+   },
+   {
+    "source": 8,
+    "target": 762,
+    "n": 21
+   },
+   {
+    "source": 8,
+    "target": 3709,
+    "n": 21
+   },
+   {
+    "source": 8,
+    "target": 12139,
+    "n": 21
+   },
+   {
+    "source": 8,
+    "target": 12450,
+    "n": 21
+   },
+   {
+    "source": 8,
+    "target": 3446,
+    "n": 20
+   },
+   {
+    "source": 8,
+    "target": 3193,
+    "n": 20
+   },
+   {
+    "source": 8,
+    "target": 9815,
+    "n": 20
+   },
+   {
+    "source": 8,
+    "target": 11137,
+    "n": 20
+   },
+   {
+    "source": 8,
+    "target": 12447,
+    "n": 20
+   },
+   {
+    "source": 8,
+    "target": 11025,
+    "n": 19
+   },
+   {
+    "source": 8,
+    "target": 17823,
+    "n": 19
+   },
+   {
+    "source": 8,
+    "target": 21834,
+    "n": 19
+   },
+   {
+    "source": 8,
+    "target": 12142,
+    "n": 18
+   },
+   {
+    "source": 8,
+    "target": 2051,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 3182,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 4771,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 10785,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 12699,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 13790,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 22237,
+    "n": 17
+   },
+   {
+    "source": 8,
+    "target": 1110,
+    "n": 16
+   },
+   {
+    "source": 8,
+    "target": 10901,
+    "n": 16
+   },
+   {
+    "source": 8,
+    "target": 13787,
+    "n": 16
+   },
+   {
+    "source": 8,
+    "target": 438,
+    "n": 15
+   },
+   {
+    "source": 8,
+    "target": 9809,
+    "n": 15
+   },
+   {
+    "source": 8,
+    "target": 10600,
+    "n": 15
+   },
+   {
+    "source": 8,
+    "target": 7898,
+    "n": 15
+   },
+   {
+    "source": 3235,
+    "target": 3709,
+    "n": 16,
+    "third": true
+   },
+   {
+    "source": 3235,
+    "target": 3715,
+    "n": 7,
+    "third": true
+   },
+   {
+    "source": 3709,
+    "target": 3715,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 3709,
+    "target": 3798,
+    "n": 7,
+    "third": true
+   },
+   {
+    "source": 3715,
+    "target": 3798,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 3709,
+    "target": 4011,
+    "n": 14,
+    "third": true
+   },
+   {
+    "source": 3235,
+    "target": 4773,
+    "n": 18,
+    "third": true
+   },
+   {
+    "source": 3709,
+    "target": 4773,
+    "n": 3,
+    "third": true
+   },
+   {
+    "source": 3235,
+    "target": 4011,
+    "n": 6,
+    "third": true
+   },
+   {
+    "source": 3715,
+    "target": 4773,
+    "n": 3,
+    "third": true
+   },
+   {
+    "source": 3715,
+    "target": 4011,
+    "n": 3,
+    "third": true
+   },
+   {
+    "source": 3235,
+    "target": 3798,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 3798,
+    "target": 4773,
+    "n": 6,
+    "third": true
+   },
+   {
+    "source": 3235,
+    "target": 4771,
+    "n": 9,
+    "third": true
+   },
+   {
+    "source": 3709,
+    "target": 4771,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 3715,
+    "target": 4771,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 4771,
+    "target": 4773,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 4011,
+    "target": 4773,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 6955,
+    "target": 6984,
+    "n": 17,
+    "third": true
+   },
+   {
+    "source": 3992,
+    "target": 6984,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 3193,
+    "target": 9813,
+    "n": 48,
+    "third": true
+   },
+   {
+    "source": 9813,
+    "target": 9815,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 3393,
+    "target": 9813,
+    "n": 6,
+    "third": true
+   },
+   {
+    "source": 7898,
+    "target": 9685,
+    "n": 4,
+    "third": true
+   },
+   {
+    "source": 9685,
+    "target": 12067,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 7898,
+    "target": 12067,
+    "n": 9,
+    "third": true
+   },
+   {
+    "source": 2235,
+    "target": 9685,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 9685,
+    "target": 12139,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 9685,
+    "target": 12699,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 12142,
+    "target": 12456,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 9685,
+    "target": 12142,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 9685,
+    "target": 12456,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 12450,
+    "target": 12456,
+    "n": 2,
+    "third": true
+   },
+   {
+    "source": 12067,
+    "target": 12450,
+    "n": 1,
+    "third": true
+   },
+   {
+    "source": 2235,
+    "target": 6944,
+    "n": 8,
+    "third": true
+   },
+   {
+    "source": 76,
+    "target": 6944,
+    "n": 1,
+    "third": true
+   }
+  ]
+ },
+ "n_counterparts": 1547,
+ "n_karman_units": 5068
+}

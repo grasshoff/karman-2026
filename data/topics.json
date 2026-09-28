@@ -1,0 +1,1522 @@
+{
+ "decades": [
+  1900,
+  1910,
+  1920,
+  1930,
+  1940,
+  1950,
+  1960
+ ],
+ "units_per_decade": {
+  "1900": 65,
+  "1910": 122,
+  "1920": 1419,
+  "1930": 2061,
+  "1940": 2931,
+  "1950": 1744,
+  "1960": 371
+ },
+ "subjects": [
+  {
+   "topic": "aerodynamics",
+   "label": "Aerodynamik",
+   "total": 799,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 4,
+     "share": 0.06153846153846154
+    },
+    {
+     "decade": 1910,
+     "n": 28,
+     "share": 0.22950819672131148
+    },
+    {
+     "decade": 1920,
+     "n": 162,
+     "share": 0.11416490486257928
+    },
+    {
+     "decade": 1930,
+     "n": 130,
+     "share": 0.06307617661329452
+    },
+    {
+     "decade": 1940,
+     "n": 324,
+     "share": 0.1105424769703173
+    },
+    {
+     "decade": 1950,
+     "n": 136,
+     "share": 0.0779816513761468
+    },
+    {
+     "decade": 1960,
+     "n": 15,
+     "share": 0.04043126684636118
+    }
+   ]
+  },
+  {
+   "topic": "aerodynamic theory",
+   "label": "Aerodynamische Theorie",
+   "total": 157,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 145,
+     "share": 0.102184637068358
+    },
+    {
+     "decade": 1930,
+     "n": 1,
+     "share": 0.00048520135856380397
+    },
+    {
+     "decade": 1940,
+     "n": 6,
+     "share": 0.0020470829068577278
+    },
+    {
+     "decade": 1950,
+     "n": 5,
+     "share": 0.0028669724770642203
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "turbulence",
+   "label": "Turbulenz",
+   "total": 237,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 2,
+     "share": 0.01639344262295082
+    },
+    {
+     "decade": 1920,
+     "n": 27,
+     "share": 0.019027484143763214
+    },
+    {
+     "decade": 1930,
+     "n": 91,
+     "share": 0.044153323629306164
+    },
+    {
+     "decade": 1940,
+     "n": 72,
+     "share": 0.02456499488229273
+    },
+    {
+     "decade": 1950,
+     "n": 43,
+     "share": 0.024655963302752295
+    },
+    {
+     "decade": 1960,
+     "n": 1,
+     "share": 0.0026954177897574125
+    }
+   ]
+  },
+  {
+   "topic": "boundary layer",
+   "label": "Grenzschicht",
+   "total": 80,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 1,
+     "share": 0.00819672131147541
+    },
+    {
+     "decade": 1920,
+     "n": 18,
+     "share": 0.012684989429175475
+    },
+    {
+     "decade": 1930,
+     "n": 25,
+     "share": 0.012130033964095099
+    },
+    {
+     "decade": 1940,
+     "n": 25,
+     "share": 0.008529512111907198
+    },
+    {
+     "decade": 1950,
+     "n": 9,
+     "share": 0.005160550458715597
+    },
+    {
+     "decade": 1960,
+     "n": 2,
+     "share": 0.005390835579514825
+    }
+   ]
+  },
+  {
+   "topic": "fluid mechanics",
+   "label": "Strömungsmechanik",
+   "total": 164,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 4,
+     "share": 0.03278688524590164
+    },
+    {
+     "decade": 1920,
+     "n": 34,
+     "share": 0.023960535588442564
+    },
+    {
+     "decade": 1930,
+     "n": 46,
+     "share": 0.022319262493934983
+    },
+    {
+     "decade": 1940,
+     "n": 45,
+     "share": 0.015353121801432957
+    },
+    {
+     "decade": 1950,
+     "n": 32,
+     "share": 0.01834862385321101
+    },
+    {
+     "decade": 1960,
+     "n": 3,
+     "share": 0.008086253369272238
+    }
+   ]
+  },
+  {
+   "topic": "wind tunnel",
+   "label": "Windkanal",
+   "total": 310,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 32,
+     "share": 0.02255109231853418
+    },
+    {
+     "decade": 1930,
+     "n": 69,
+     "share": 0.033478893740902474
+    },
+    {
+     "decade": 1940,
+     "n": 186,
+     "share": 0.06345957011258956
+    },
+    {
+     "decade": 1950,
+     "n": 20,
+     "share": 0.011467889908256881
+    },
+    {
+     "decade": 1960,
+     "n": 3,
+     "share": 0.008086253369272238
+    }
+   ]
+  },
+  {
+   "topic": "aerodynamic stability",
+   "label": "Aerodynamische Stabilität",
+   "total": 142,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 2,
+     "share": 0.0014094432699083862
+    },
+    {
+     "decade": 1930,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1940,
+     "n": 88,
+     "share": 0.03002388263391334
+    },
+    {
+     "decade": 1950,
+     "n": 52,
+     "share": 0.02981651376146789
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "supersonic flow",
+   "label": "Überschallströmung",
+   "total": 69,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 1,
+     "share": 0.0007047216349541931
+    },
+    {
+     "decade": 1930,
+     "n": 9,
+     "share": 0.004366812227074236
+    },
+    {
+     "decade": 1940,
+     "n": 40,
+     "share": 0.013647219379051518
+    },
+    {
+     "decade": 1950,
+     "n": 18,
+     "share": 0.010321100917431193
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "shock waves",
+   "label": "Stoßwellen",
+   "total": 32,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 4,
+     "share": 0.0019408054342552159
+    },
+    {
+     "decade": 1940,
+     "n": 19,
+     "share": 0.006482429205049471
+    },
+    {
+     "decade": 1950,
+     "n": 8,
+     "share": 0.0045871559633027525
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "compressible flow",
+   "label": "Kompressible Strömung",
+   "total": 25,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 8,
+     "share": 0.0038816108685104317
+    },
+    {
+     "decade": 1940,
+     "n": 15,
+     "share": 0.00511770726714432
+    },
+    {
+     "decade": 1950,
+     "n": 2,
+     "share": 0.0011467889908256881
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "jet propulsion",
+   "label": "Strahlantrieb",
+   "total": 66,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 1,
+     "share": 0.0007047216349541931
+    },
+    {
+     "decade": 1930,
+     "n": 3,
+     "share": 0.001455604075691412
+    },
+    {
+     "decade": 1940,
+     "n": 30,
+     "share": 0.01023541453428864
+    },
+    {
+     "decade": 1950,
+     "n": 24,
+     "share": 0.013761467889908258
+    },
+    {
+     "decade": 1960,
+     "n": 8,
+     "share": 0.0215633423180593
+    }
+   ]
+  },
+  {
+   "topic": "rockets",
+   "label": "Raketen",
+   "total": 72,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 9,
+     "share": 0.004366812227074236
+    },
+    {
+     "decade": 1940,
+     "n": 23,
+     "share": 0.007847151142954622
+    },
+    {
+     "decade": 1950,
+     "n": 29,
+     "share": 0.016628440366972478
+    },
+    {
+     "decade": 1960,
+     "n": 11,
+     "share": 0.029649595687331536
+    }
+   ]
+  },
+  {
+   "topic": "missiles",
+   "label": "Lenkflugkörper",
+   "total": 31,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1940,
+     "n": 7,
+     "share": 0.002388263391334016
+    },
+    {
+     "decade": 1950,
+     "n": 24,
+     "share": 0.013761467889908258
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "space flight",
+   "label": "Raumfahrt",
+   "total": 34,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1940,
+     "n": 1,
+     "share": 0.000341180484476288
+    },
+    {
+     "decade": 1950,
+     "n": 17,
+     "share": 0.00974770642201835
+    },
+    {
+     "decade": 1960,
+     "n": 16,
+     "share": 0.0431266846361186
+    }
+   ]
+  },
+  {
+   "topic": "combustion",
+   "label": "Verbrennung",
+   "total": 42,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1940,
+     "n": 6,
+     "share": 0.0020470829068577278
+    },
+    {
+     "decade": 1950,
+     "n": 35,
+     "share": 0.020068807339449542
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "heat transfer",
+   "label": "Wärmeübertragung",
+   "total": 52,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 1,
+     "share": 0.00819672131147541
+    },
+    {
+     "decade": 1920,
+     "n": 3,
+     "share": 0.0021141649048625794
+    },
+    {
+     "decade": 1930,
+     "n": 16,
+     "share": 0.0077632217370208634
+    },
+    {
+     "decade": 1940,
+     "n": 25,
+     "share": 0.008529512111907198
+    },
+    {
+     "decade": 1950,
+     "n": 7,
+     "share": 0.0040137614678899085
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "helicopter",
+   "label": "Hubschrauber",
+   "total": 54,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 3,
+     "share": 0.02459016393442623
+    },
+    {
+     "decade": 1920,
+     "n": 36,
+     "share": 0.02536997885835095
+    },
+    {
+     "decade": 1930,
+     "n": 3,
+     "share": 0.001455604075691412
+    },
+    {
+     "decade": 1940,
+     "n": 1,
+     "share": 0.000341180484476288
+    },
+    {
+     "decade": 1950,
+     "n": 6,
+     "share": 0.0034403669724770644
+    },
+    {
+     "decade": 1960,
+     "n": 4,
+     "share": 0.01078167115902965
+    }
+   ]
+  },
+  {
+   "topic": "propellers",
+   "label": "Propeller",
+   "total": 76,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 2,
+     "share": 0.03076923076923077
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 10,
+     "share": 0.007047216349541931
+    },
+    {
+     "decade": 1930,
+     "n": 57,
+     "share": 0.027656477438136828
+    },
+    {
+     "decade": 1940,
+     "n": 6,
+     "share": 0.0020470829068577278
+    },
+    {
+     "decade": 1950,
+     "n": 1,
+     "share": 0.0005733944954128441
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "aircraft design",
+   "label": "Flugzeugentwurf",
+   "total": 76,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 17,
+     "share": 0.13934426229508196
+    },
+    {
+     "decade": 1920,
+     "n": 27,
+     "share": 0.019027484143763214
+    },
+    {
+     "decade": 1930,
+     "n": 16,
+     "share": 0.0077632217370208634
+    },
+    {
+     "decade": 1940,
+     "n": 10,
+     "share": 0.0034118048447628795
+    },
+    {
+     "decade": 1950,
+     "n": 6,
+     "share": 0.0034403669724770644
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "elasticity",
+   "label": "Elastizität",
+   "total": 45,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 6,
+     "share": 0.04918032786885246
+    },
+    {
+     "decade": 1920,
+     "n": 12,
+     "share": 0.008456659619450317
+    },
+    {
+     "decade": 1930,
+     "n": 13,
+     "share": 0.006307617661329452
+    },
+    {
+     "decade": 1940,
+     "n": 4,
+     "share": 0.001364721937905152
+    },
+    {
+     "decade": 1950,
+     "n": 9,
+     "share": 0.005160550458715597
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "stress analysis",
+   "label": "Spannungsanalyse",
+   "total": 42,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 1,
+     "share": 0.00819672131147541
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 23,
+     "share": 0.011159631246967491
+    },
+    {
+     "decade": 1940,
+     "n": 13,
+     "share": 0.004435346298191744
+    },
+    {
+     "decade": 1950,
+     "n": 5,
+     "share": 0.0028669724770642203
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "suspension bridges",
+   "label": "Hängebrücken",
+   "total": 635,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 5,
+     "share": 0.0024260067928190197
+    },
+    {
+     "decade": 1940,
+     "n": 536,
+     "share": 0.18287273967929035
+    },
+    {
+     "decade": 1950,
+     "n": 94,
+     "share": 0.05389908256880734
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "tacoma narrows bridge",
+   "label": "Tacoma-Narrows-Brücke",
+   "total": 684,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 96,
+     "share": 0.046579330422125184
+    },
+    {
+     "decade": 1940,
+     "n": 577,
+     "share": 0.19686113954281814
+    },
+    {
+     "decade": 1950,
+     "n": 10,
+     "share": 0.005733944954128441
+    },
+    {
+     "decade": 1960,
+     "n": 1,
+     "share": 0.0026954177897574125
+    }
+   ]
+  },
+  {
+   "topic": "hydraulics",
+   "label": "Hydraulik",
+   "total": 252,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 7,
+     "share": 0.004933051444679351
+    },
+    {
+     "decade": 1930,
+     "n": 210,
+     "share": 0.10189228529839883
+    },
+    {
+     "decade": 1940,
+     "n": 34,
+     "share": 0.01160013647219379
+    },
+    {
+     "decade": 1950,
+     "n": 1,
+     "share": 0.0005733944954128441
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "cavitation",
+   "label": "Kavitation",
+   "total": 142,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 6,
+     "share": 0.004228329809725159
+    },
+    {
+     "decade": 1930,
+     "n": 100,
+     "share": 0.048520135856380396
+    },
+    {
+     "decade": 1940,
+     "n": 33,
+     "share": 0.011258955987717503
+    },
+    {
+     "decade": 1950,
+     "n": 3,
+     "share": 0.0017201834862385322
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "pump testing",
+   "label": "Pumpenversuche",
+   "total": 211,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1930,
+     "n": 184,
+     "share": 0.08927704997573993
+    },
+    {
+     "decade": 1940,
+     "n": 25,
+     "share": 0.008529512111907198
+    },
+    {
+     "decade": 1950,
+     "n": 2,
+     "share": 0.0011467889908256881
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "wind turbine",
+   "label": "Windturbinen",
+   "total": 524,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 1,
+     "share": 0.015384615384615385
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 6,
+     "share": 0.004228329809725159
+    },
+    {
+     "decade": 1930,
+     "n": 48,
+     "share": 0.023289665211062592
+    },
+    {
+     "decade": 1940,
+     "n": 465,
+     "share": 0.1586489252814739
+    },
+    {
+     "decade": 1950,
+     "n": 4,
+     "share": 0.0022935779816513763
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "turbine blades",
+   "label": "Turbinenschaufeln",
+   "total": 125,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1920,
+     "n": 110,
+     "share": 0.07751937984496124
+    },
+    {
+     "decade": 1930,
+     "n": 15,
+     "share": 0.00727802037845706
+    },
+    {
+     "decade": 1940,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1950,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "topic": "patents",
+   "label": "Patente",
+   "total": 777,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "decade": 1910,
+     "n": 41,
+     "share": 0.3360655737704918
+    },
+    {
+     "decade": 1920,
+     "n": 375,
+     "share": 0.2642706131078224
+    },
+    {
+     "decade": 1930,
+     "n": 218,
+     "share": 0.10577389616690927
+    },
+    {
+     "decade": 1940,
+     "n": 108,
+     "share": 0.0368474923234391
+    },
+    {
+     "decade": 1950,
+     "n": 27,
+     "share": 0.01548165137614679
+    },
+    {
+     "decade": 1960,
+     "n": 8,
+     "share": 0.0215633423180593
+    }
+   ]
+  },
+  {
+   "topic": "mathematics",
+   "label": "Mathematik",
+   "total": 46,
+   "cells": [
+    {
+     "decade": 1900,
+     "n": 5,
+     "share": 0.07692307692307693
+    },
+    {
+     "decade": 1910,
+     "n": 2,
+     "share": 0.01639344262295082
+    },
+    {
+     "decade": 1920,
+     "n": 7,
+     "share": 0.004933051444679351
+    },
+    {
+     "decade": 1930,
+     "n": 11,
+     "share": 0.005337214944201844
+    },
+    {
+     "decade": 1940,
+     "n": 15,
+     "share": 0.00511770726714432
+    },
+    {
+     "decade": 1950,
+     "n": 6,
+     "share": 0.0034403669724770644
+    },
+    {
+     "decade": 1960,
+     "n": 0,
+     "share": 0.0
+    }
+   ]
+  }
+ ],
+ "top_tags": [
+  {
+   "tag": "aerodynamics",
+   "label": "Aerodynamik",
+   "n": 1632
+  },
+  {
+   "tag": "patents",
+   "label": "Patente",
+   "n": 900
+  },
+  {
+   "tag": "tacoma narrows bridge",
+   "label": "Tacoma-Narrows-Brücke",
+   "n": 867
+  },
+  {
+   "tag": "suspension bridges",
+   "label": "Hängebrücken",
+   "n": 820
+  },
+  {
+   "tag": "wind turbine",
+   "label": "Windturbinen",
+   "n": 744
+  },
+  {
+   "tag": "fluid mechanics",
+   "label": "Strömungsmechanik",
+   "n": 480
+  },
+  {
+   "tag": "turbulence",
+   "label": "Turbulenz",
+   "n": 453
+  },
+  {
+   "tag": "wind tunnel",
+   "label": "Windkanal",
+   "n": 441
+  },
+  {
+   "tag": "travel",
+   "label": "Reisen",
+   "n": 428
+  },
+  {
+   "tag": "hydraulics",
+   "label": "Hydraulik",
+   "n": 349
+  },
+  {
+   "tag": "mathematics",
+   "label": "Mathematik",
+   "n": 315
+  },
+  {
+   "tag": "personal",
+   "label": "Persönliches",
+   "n": 294
+  },
+  {
+   "tag": "publication",
+   "label": "Publikation",
+   "n": 281
+  },
+  {
+   "tag": "pump testing",
+   "label": "Pumpenversuche",
+   "n": 252
+  },
+  {
+   "tag": "model tests",
+   "label": "model tests",
+   "n": 244
+  },
+  {
+   "tag": "supersonic flow",
+   "label": "Überschallströmung",
+   "n": 227
+  },
+  {
+   "tag": "boundary layer",
+   "label": "Grenzschicht",
+   "n": 209
+  },
+  {
+   "tag": "cavitation",
+   "label": "Kavitation",
+   "n": 199
+  },
+  {
+   "tag": "calculations",
+   "label": "calculations",
+   "n": 198
+  },
+  {
+   "tag": "aerodynamic stability",
+   "label": "Aerodynamische Stabilität",
+   "n": 190
+  },
+  {
+   "tag": "publication request",
+   "label": "publication request",
+   "n": 177
+  },
+  {
+   "tag": "aerodynamic theory",
+   "label": "Aerodynamische Theorie",
+   "n": 166
+  },
+  {
+   "tag": "reprint request",
+   "label": "reprint request",
+   "n": 166
+  },
+  {
+   "tag": "structural engineering",
+   "label": "structural engineering",
+   "n": 165
+  },
+  {
+   "tag": "aeronautics",
+   "label": "aeronautics",
+   "n": 163
+  },
+  {
+   "tag": "mathematical notes",
+   "label": "mathematical notes",
+   "n": 162
+  },
+  {
+   "tag": "turbine blades",
+   "label": "Turbinenschaufeln",
+   "n": 149
+  },
+  {
+   "tag": "elasticity",
+   "label": "Elastizität",
+   "n": 147
+  },
+  {
+   "tag": "hydraulic machinery",
+   "label": "hydraulic machinery",
+   "n": 135
+  },
+  {
+   "tag": "bibliography",
+   "label": "bibliography",
+   "n": 134
+  },
+  {
+   "tag": "employment",
+   "label": "Anstellung",
+   "n": 128
+  },
+  {
+   "tag": "turbomachinery",
+   "label": "turbomachinery",
+   "n": 128
+  },
+  {
+   "tag": "heat transfer",
+   "label": "Wärmeübertragung",
+   "n": 121
+  },
+  {
+   "tag": "reynolds number",
+   "label": "reynolds number",
+   "n": 118
+  },
+  {
+   "tag": "blade design",
+   "label": "blade design",
+   "n": 117
+  },
+  {
+   "tag": "figures",
+   "label": "figures",
+   "n": 115
+  },
+  {
+   "tag": "personnel",
+   "label": "personnel",
+   "n": 114
+  },
+  {
+   "tag": "aircraft design",
+   "label": "Flugzeugentwurf",
+   "n": 113
+  },
+  {
+   "tag": "damping",
+   "label": "damping",
+   "n": 107
+  },
+  {
+   "tag": "collected works",
+   "label": "Collected Works",
+   "n": 103
+  }
+ ],
+ "exclude": [
+  "archival",
+  "archival notice",
+  "archive",
+  "copyright",
+  "literary rights",
+  "microform",
+  "permissions",
+  "publication rights"
+ ],
+ "synonyms": {
+  "wind turbines": "wind turbine",
+  "wind mills": "wind turbine",
+  "windmills": "wind turbine",
+  "patent": "patents",
+  "patent application": "patents",
+  "patent claims": "patents",
+  "wind tunnel tests": "wind tunnel",
+  "wind tunnel testing": "wind tunnel",
+  "model testing": "model tests",
+  "fluid dynamics": "fluid mechanics",
+  "supersonic aerodynamics": "supersonic flow",
+  "travel plans": "travel",
+  "personal correspondence": "personal",
+  "rocketry": "rockets",
+  "rocket propulsion": "rockets",
+  "rocket development": "rockets",
+  "nuclear rockets": "rockets",
+  "space flight": "space flight",
+  "spaceflight": "space flight",
+  "space exploration": "space flight",
+  "space travel": "space flight",
+  "guided missiles": "missiles",
+  "missile design": "missiles",
+  "ramjet": "jet propulsion",
+  "suspension bridge": "suspension bridges",
+  "tacoma narrows": "tacoma narrows bridge"
+ }
+}

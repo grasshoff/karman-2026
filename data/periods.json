@@ -1,0 +1,3430 @@
+{
+ "periods": [
+  {
+   "id": "studium",
+   "label": "Studium und Göttingen",
+   "short": "Studium",
+   "from": 1896,
+   "to": 1912,
+   "status": "proposed",
+   "source": "Biographie: Studium an der TH Budapest, ab 1906 Göttingen (Promotion bei Prandtl 1908). Bestätigung durch den Autor ausstehend.",
+   "note": "Die Studienjahre sind im PDAI-Bestand nur schwach belegt; die meisten Einheiten dieser Zeit sind spätere Abschriften oder Rückblicke.",
+   "subbands": [],
+   "n_units": 85,
+   "n_karman": 27,
+   "n_counterparts": 11,
+   "correspondents": [
+    {
+     "id": 10901,
+     "name": "Goldziher, Károly",
+     "kind": "person",
+     "n": 13
+    },
+    {
+     "id": 6802,
+     "name": "Weil, H.",
+     "kind": "person",
+     "n": 3
+    },
+    {
+     "id": 18275,
+     "name": "Hellinger, Gyuri",
+     "kind": "person",
+     "n": 3
+    },
+    {
+     "id": 409,
+     "name": "Fallon, Edmund",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 537,
+     "name": "Abraham, Max",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 1395,
+     "name": "Krylov, A. N.",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 1977,
+     "name": "Gelmi Gheron, A.",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 10382,
+     "name": "Heller, [First Name Unknown]",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 7198,
+     "name": "Gröber, H.",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 22410,
+     "name": "Hevesy, Paul de",
+     "kind": "person",
+     "n": 1
+    },
+    {
+     "id": 22539,
+     "name": "Herberg, Georg",
+     "kind": "person",
+     "n": 1
+    }
+   ],
+   "distinct_topics": [
+    {
+     "tag": "experimental data",
+     "label": "experimental data",
+     "z": 5.63,
+     "n": 10
+    },
+    {
+     "tag": "measurements",
+     "label": "measurements",
+     "z": 5.4,
+     "n": 9
+    },
+    {
+     "tag": "generator",
+     "label": "generator",
+     "z": 4.84,
+     "n": 7
+    },
+    {
+     "tag": "temperature",
+     "label": "temperature",
+     "z": 4.06,
+     "n": 5
+    },
+    {
+     "tag": "pressure",
+     "label": "pressure",
+     "z": 3.96,
+     "n": 5
+    },
+    {
+     "tag": "university life",
+     "label": "university life",
+     "z": 3.48,
+     "n": 6
+    },
+    {
+     "tag": "professors",
+     "label": "professors",
+     "z": 3.18,
+     "n": 5
+    },
+    {
+     "tag": "studies",
+     "label": "studies",
+     "z": 3.18,
+     "n": 5
+    },
+    {
+     "tag": "mathematics",
+     "label": "Mathematik",
+     "z": 2.08,
+     "n": 5
+    }
+   ],
+   "subjects": [
+    {
+     "tag": "aerodynamics",
+     "label": "Aerodynamik",
+     "n": 7,
+     "share": 0.08235294117647059
+    },
+    {
+     "tag": "aerodynamic theory",
+     "label": "Aerodynamische Theorie",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "turbulence",
+     "label": "Turbulenz",
+     "n": 2,
+     "share": 0.023529411764705882
+    },
+    {
+     "tag": "boundary layer",
+     "label": "Grenzschicht",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "fluid mechanics",
+     "label": "Strömungsmechanik",
+     "n": 4,
+     "share": 0.047058823529411764
+    },
+    {
+     "tag": "wind tunnel",
+     "label": "Windkanal",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "aerodynamic stability",
+     "label": "Aerodynamische Stabilität",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "supersonic flow",
+     "label": "Überschallströmung",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "shock waves",
+     "label": "Stoßwellen",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "compressible flow",
+     "label": "Kompressible Strömung",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "jet propulsion",
+     "label": "Strahlantrieb",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "rockets",
+     "label": "Raketen",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "missiles",
+     "label": "Lenkflugkörper",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "space flight",
+     "label": "Raumfahrt",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "combustion",
+     "label": "Verbrennung",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "heat transfer",
+     "label": "Wärmeübertragung",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "helicopter",
+     "label": "Hubschrauber",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "propellers",
+     "label": "Propeller",
+     "n": 2,
+     "share": 0.023529411764705882
+    },
+    {
+     "tag": "aircraft design",
+     "label": "Flugzeugentwurf",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "elasticity",
+     "label": "Elastizität",
+     "n": 3,
+     "share": 0.03529411764705882
+    },
+    {
+     "tag": "structural mechanics",
+     "label": "Strukturmechanik",
+     "n": 4,
+     "share": 0.047058823529411764
+    },
+    {
+     "tag": "stress analysis",
+     "label": "Spannungsanalyse",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "suspension bridges",
+     "label": "Hängebrücken",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "tacoma narrows bridge",
+     "label": "Tacoma-Narrows-Brücke",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "hydraulics",
+     "label": "Hydraulik",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "cavitation",
+     "label": "Kavitation",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "pump testing",
+     "label": "Pumpenversuche",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "wind turbine",
+     "label": "Windturbinen",
+     "n": 1,
+     "share": 0.011764705882352941
+    },
+    {
+     "tag": "turbine blades",
+     "label": "Turbinenschaufeln",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "patents",
+     "label": "Patente",
+     "n": 7,
+     "share": 0.08235294117647059
+    },
+    {
+     "tag": "mathematics",
+     "label": "Mathematik",
+     "n": 5,
+     "share": 0.058823529411764705
+    }
+   ],
+   "institutions": [
+    {
+     "name": "University of Göttingen",
+     "n": 7
+    },
+    {
+     "name": "English Association of Mechanical Engineers",
+     "n": 3
+    },
+    {
+     "name": "London City and Guilds",
+     "n": 3
+    },
+    {
+     "name": "British Daimler Motor Co.",
+     "n": 3
+    },
+    {
+     "name": "Office National de la Propriété Industrielle",
+     "n": 3
+    },
+    {
+     "name": "University College of London",
+     "n": 3
+    },
+    {
+     "name": "Royal College of Science and Technology",
+     "n": 3
+    },
+    {
+     "name": "Central Technical College",
+     "n": 3
+    }
+   ],
+   "cities": [
+    {
+     "id": "goettingen",
+     "label": "Göttingen",
+     "lat": 51.54,
+     "lon": 9.93,
+     "n": 7
+    },
+    {
+     "id": "paris",
+     "label": "Paris",
+     "lat": 48.86,
+     "lon": 2.35,
+     "n": 5
+    },
+    {
+     "id": "munich",
+     "label": "München",
+     "lat": 48.14,
+     "lon": 11.58,
+     "n": 3
+    },
+    {
+     "id": "london",
+     "label": "London",
+     "lat": 51.51,
+     "lon": -0.13,
+     "n": 2
+    },
+    {
+     "id": "budapest",
+     "label": "Budapest",
+     "lat": 47.5,
+     "lon": 19.04,
+     "n": 2
+    },
+    {
+     "id": "newyork",
+     "label": "New York",
+     "lat": 40.71,
+     "lon": -74.01,
+     "n": 1
+    },
+    {
+     "id": "berlin",
+     "label": "Berlin",
+     "lat": 52.52,
+     "lon": 13.4,
+     "n": 1
+    },
+    {
+     "id": "stuttgart",
+     "label": "Stuttgart",
+     "lat": 48.78,
+     "lon": 9.18,
+     "n": 1
+    }
+   ],
+   "n_with_place": 38,
+   "languages": [
+    {
+     "key": "hungarian",
+     "label": "Ungarisch",
+     "n": 40
+    },
+    {
+     "key": "german",
+     "label": "Deutsch",
+     "n": 20
+    },
+    {
+     "key": "english",
+     "label": "Englisch",
+     "n": 18
+    },
+    {
+     "key": "french",
+     "label": "Französisch",
+     "n": 5
+    },
+    {
+     "key": "other",
+     "label": "Andere",
+     "n": 1
+    },
+    {
+     "key": "italian",
+     "label": "Italienisch",
+     "n": 1
+    }
+   ],
+   "manuscripts": {
+    "n": 4,
+    "pages": 129
+   },
+   "evidence": [
+    {
+     "term": "Göttingen",
+     "date": "1901",
+     "letter_id": "11-21_goldziher_karoly_1901_1952/003",
+     "regest": "Goldziher describes his life and studies in Göttingen, detailing the town, university atmosphere, and his impressions of professors Voigt, Tiecke, Klein, Hilbert, and Nernst.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=11-21_goldziher_karoly_1901_1952&p=2"
+    },
+    {
+     "term": "Budapest",
+     "date": "1908-11-15",
+     "letter_id": "13-6_hevesy_paul_de_1940_1960/019",
+     "regest": "A personal letter in Hungarian discussing a working model, an old lady's behavior in Budapest during the Hitler era, and mentioning Tivadar T. Dolmányosky in Paris.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=13-6_hevesy_paul_de_1940_1960&p=23"
+    }
+   ]
+  },
+  {
+   "id": "aachen",
+   "label": "Aachen",
+   "short": "Aachen",
+   "from": 1913,
+   "to": 1929,
+   "status": "proposed",
+   "source": "Biographie: Berufung an die TH Aachen 1913; 1914–1918 Kriegsdienst in der k.u.k. Luftfahrtruppe (Fischamend). Bestätigung durch den Autor ausstehend.",
+   "note": null,
+   "subbands": [
+    {
+     "label": "Erster Weltkrieg",
+     "from": 1914,
+     "to": 1918
+    }
+   ],
+   "n_units": 1523,
+   "n_karman": 916,
+   "n_counterparts": 223,
+   "correspondents": [
+    {
+     "id": 415,
+     "name": "Angus, Robert W.",
+     "kind": "person",
+     "n": 148
+    },
+    {
+     "id": 9813,
+     "name": "Herzfeld, H.",
+     "kind": "person",
+     "n": 120
+    },
+    {
+     "id": 10761,
+     "name": "Gehlhoff, Georg",
+     "kind": "person",
+     "n": 42
+    },
+    {
+     "id": 10776,
+     "name": "Hopf, Ludwig",
+     "kind": "person",
+     "n": 34
+    },
+    {
+     "id": 3393,
+     "name": "Fromm, Karl",
+     "kind": "person",
+     "n": 30
+    },
+    {
+     "id": 3189,
+     "name": "Gutehoffnungshütte",
+     "kind": "institution",
+     "n": 27
+    },
+    {
+     "id": 9692,
+     "name": "Bolza, Hans",
+     "kind": "person",
+     "n": 22
+    },
+    {
+     "id": 22237,
+     "name": "Hort, Wilhelm",
+     "kind": "person",
+     "n": 17
+    },
+    {
+     "id": 3193,
+     "name": "Reichspatentamt",
+     "kind": "institution",
+     "n": 15
+    },
+    {
+     "id": 1870,
+     "name": "Ahlborn, Friedrich",
+     "kind": "person",
+     "n": 12
+    },
+    {
+     "id": 9809,
+     "name": "Gilles, August",
+     "kind": "person",
+     "n": 12
+    },
+    {
+     "id": 11963,
+     "name": "Gutehoffnungshütte Oberhausen Aktiengesellschaft",
+     "kind": "institution",
+     "n": 12
+    }
+   ],
+   "distinct_topics": [
+    {
+     "tag": "patents",
+     "label": "Patente",
+     "z": 20.88,
+     "n": 410
+    },
+    {
+     "tag": "aerodynamic theory",
+     "label": "Aerodynamische Theorie",
+     "z": 14.64,
+     "n": 145
+    },
+    {
+     "tag": "turbine blades",
+     "label": "Turbinenschaufeln",
+     "z": 13.0,
+     "n": 110
+    },
+    {
+     "tag": "publication request",
+     "label": "publication request",
+     "z": 11.31,
+     "n": 105
+    },
+    {
+     "tag": "turbomachinery",
+     "label": "turbomachinery",
+     "z": 10.31,
+     "n": 73
+    },
+    {
+     "tag": "patent law",
+     "label": "patent law",
+     "z": 8.18,
+     "n": 44
+    },
+    {
+     "tag": "helicopter",
+     "label": "Hubschrauber",
+     "z": 7.54,
+     "n": 39
+    },
+    {
+     "tag": "aircraft design",
+     "label": "Flugzeugentwurf",
+     "z": 7.12,
+     "n": 44
+    },
+    {
+     "tag": "military aviation",
+     "label": "military aviation",
+     "z": 6.58,
+     "n": 28
+    },
+    {
+     "tag": "aviation",
+     "label": "aviation",
+     "z": 6.16,
+     "n": 32
+    }
+   ],
+   "subjects": [
+    {
+     "tag": "aerodynamics",
+     "label": "Aerodynamik",
+     "n": 187,
+     "share": 0.12278397898883782
+    },
+    {
+     "tag": "aerodynamic theory",
+     "label": "Aerodynamische Theorie",
+     "n": 145,
+     "share": 0.09520682862770848
+    },
+    {
+     "tag": "turbulence",
+     "label": "Turbulenz",
+     "n": 28,
+     "share": 0.018384766907419567
+    },
+    {
+     "tag": "boundary layer",
+     "label": "Grenzschicht",
+     "n": 18,
+     "share": 0.011818778726198293
+    },
+    {
+     "tag": "fluid mechanics",
+     "label": "Strömungsmechanik",
+     "n": 34,
+     "share": 0.02232435981615233
+    },
+    {
+     "tag": "wind tunnel",
+     "label": "Windkanal",
+     "n": 32,
+     "share": 0.021011162179908074
+    },
+    {
+     "tag": "aerodynamic stability",
+     "label": "Aerodynamische Stabilität",
+     "n": 2,
+     "share": 0.0013131976362442547
+    },
+    {
+     "tag": "supersonic flow",
+     "label": "Überschallströmung",
+     "n": 1,
+     "share": 0.0006565988181221273
+    },
+    {
+     "tag": "shock waves",
+     "label": "Stoßwellen",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "compressible flow",
+     "label": "Kompressible Strömung",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "jet propulsion",
+     "label": "Strahlantrieb",
+     "n": 1,
+     "share": 0.0006565988181221273
+    },
+    {
+     "tag": "rockets",
+     "label": "Raketen",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "missiles",
+     "label": "Lenkflugkörper",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "space flight",
+     "label": "Raumfahrt",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "combustion",
+     "label": "Verbrennung",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "heat transfer",
+     "label": "Wärmeübertragung",
+     "n": 3,
+     "share": 0.001969796454366382
+    },
+    {
+     "tag": "helicopter",
+     "label": "Hubschrauber",
+     "n": 39,
+     "share": 0.025607353906762966
+    },
+    {
+     "tag": "propellers",
+     "label": "Propeller",
+     "n": 10,
+     "share": 0.006565988181221274
+    },
+    {
+     "tag": "aircraft design",
+     "label": "Flugzeugentwurf",
+     "n": 44,
+     "share": 0.028890347997373604
+    },
+    {
+     "tag": "elasticity",
+     "label": "Elastizität",
+     "n": 16,
+     "share": 0.010505581089954037
+    },
+    {
+     "tag": "structural mechanics",
+     "label": "Strukturmechanik",
+     "n": 5,
+     "share": 0.003282994090610637
+    },
+    {
+     "tag": "stress analysis",
+     "label": "Spannungsanalyse",
+     "n": 1,
+     "share": 0.0006565988181221273
+    },
+    {
+     "tag": "suspension bridges",
+     "label": "Hängebrücken",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "tacoma narrows bridge",
+     "label": "Tacoma-Narrows-Brücke",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "hydraulics",
+     "label": "Hydraulik",
+     "n": 7,
+     "share": 0.004596191726854892
+    },
+    {
+     "tag": "cavitation",
+     "label": "Kavitation",
+     "n": 6,
+     "share": 0.003939592908732764
+    },
+    {
+     "tag": "pump testing",
+     "label": "Pumpenversuche",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "wind turbine",
+     "label": "Windturbinen",
+     "n": 6,
+     "share": 0.003939592908732764
+    },
+    {
+     "tag": "turbine blades",
+     "label": "Turbinenschaufeln",
+     "n": 110,
+     "share": 0.07222586999343401
+    },
+    {
+     "tag": "patents",
+     "label": "Patente",
+     "n": 410,
+     "share": 0.2692055154300722
+    },
+    {
+     "tag": "mathematics",
+     "label": "Mathematik",
+     "n": 9,
+     "share": 0.005909389363099146
+    }
+   ],
+   "institutions": [
+    {
+     "name": "Reichspatentamt",
+     "n": 145
+    },
+    {
+     "name": "Technische Hochschule Aachen",
+     "n": 124
+    },
+    {
+     "name": "Gutehoffnungshütte",
+     "n": 89
+    },
+    {
+     "name": "Aerodynamisches Institut der Techn. Hochschule Aachen",
+     "n": 30
+    },
+    {
+     "name": "United States Patent Office",
+     "n": 25
+    },
+    {
+     "name": "Aerodynamisches Institut",
+     "n": 21
+    },
+    {
+     "name": "AEG",
+     "n": 18
+    },
+    {
+     "name": "Aerodynamisches Institut der Technischen Hochschule Aachen",
+     "n": 17
+    }
+   ],
+   "cities": [
+    {
+     "id": "aachen",
+     "label": "Aachen",
+     "lat": 50.78,
+     "lon": 6.08,
+     "n": 468
+    },
+    {
+     "id": "berlin",
+     "label": "Berlin",
+     "lat": 52.52,
+     "lon": 13.4,
+     "n": 248
+    },
+    {
+     "id": "oberhausen",
+     "label": "Oberhausen",
+     "lat": 51.47,
+     "lon": 6.85,
+     "n": 47
+    },
+    {
+     "id": "budapest",
+     "label": "Budapest",
+     "lat": 47.5,
+     "lon": 19.04,
+     "n": 42
+    },
+    {
+     "id": "paris",
+     "label": "Paris",
+     "lat": 48.86,
+     "lon": 2.35,
+     "n": 33
+    },
+    {
+     "id": "vienna",
+     "label": "Wien",
+     "lat": 48.21,
+     "lon": 16.37,
+     "n": 29
+    },
+    {
+     "id": "kobe",
+     "label": "Kobe",
+     "lat": 34.69,
+     "lon": 135.2,
+     "n": 22
+    },
+    {
+     "id": "wuerzburg",
+     "label": "Würzburg",
+     "lat": 49.79,
+     "lon": 9.95,
+     "n": 19
+    },
+    {
+     "id": "hamburg",
+     "label": "Hamburg",
+     "lat": 53.55,
+     "lon": 9.99,
+     "n": 18
+    },
+    {
+     "id": "newyork",
+     "label": "New York",
+     "lat": 40.71,
+     "lon": -74.01,
+     "n": 18
+    }
+   ],
+   "n_with_place": 1217,
+   "languages": [
+    {
+     "key": "german",
+     "label": "Deutsch",
+     "n": 1252
+    },
+    {
+     "key": "english",
+     "label": "Englisch",
+     "n": 159
+    },
+    {
+     "key": "hungarian",
+     "label": "Ungarisch",
+     "n": 53
+    },
+    {
+     "key": "french",
+     "label": "Französisch",
+     "n": 49
+    },
+    {
+     "key": "other",
+     "label": "Andere",
+     "n": 7
+    },
+    {
+     "key": "italian",
+     "label": "Italienisch",
+     "n": 2
+    },
+    {
+     "key": "spanish",
+     "label": "Spanisch",
+     "n": 1
+    }
+   ],
+   "manuscripts": {
+    "n": 47,
+    "pages": 1217
+   },
+   "evidence": [
+    {
+     "term": "Aachen",
+     "date": "1914-04-20",
+     "letter_id": "10-23_gardner_lester_d_1927_1937/003",
+     "regest": "Telegram sent via Deutscher Reichstelegraph in Aachen asking Professor von Kármán to inform Colonel Clark of Gardner's address at the Hotel Cavour in Rome on Saturday.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=10-23_gardner_lester_d_1927_1937&p=2"
+    },
+    {
+     "term": "Aachen",
+     "date": "1918-10",
+     "letter_id": "108-13_patents_helicopters_captive_helicopter_i/032",
+     "regest": "Title page for a report by Dr. Theodor von Kármán, Professor at the Technical University of Aachen, concerning experiments with captive helicopters (Schraubenfesselfliegern), dated October 1918.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=108-13_patents_helicopters_captive_helicopter_i&p=65"
+    },
+    {
+     "term": "Aachen",
+     "date": "1918-10-29",
+     "letter_id": "108-10_patents_helicopters_captive_helicopter_i/011",
+     "regest": "Oberleutnant Busemann reports that Prof. Dr. Kármán visited him on October 25 and discussed promising results with the captive helicopter (Fesselflugzeug) developed by Kármán and Ing. Zurovec. Kármán seeks a German industrial partner to continue the trials; the patents are held by Eisenwerk Dr. Lipták in Budapest. Busemann encourages Hirth to contact Kármán (then at TH Aachen) or Dr. Lipták regarding exploitation of the dormant project.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=108-10_patents_helicopters_captive_helicopter_i&p=27"
+    },
+    {
+     "term": "Fliegerarsenal",
+     "date": "1914-03-28",
+     "letter_id": "108-11_patents_helicopters_captive_helicopter/018",
+     "regest": "Propeller test report (Prot. No 175) from the k.u.k. Fliegerarsenal Versuchsabteilung der Flugzeugmeisterei for an Asboth helicopter propeller (Bauart Asboth, Fabr. Nr. 7600/19) for a 160 PS motor.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=108-11_patents_helicopters_captive_helicopter&p=17"
+    }
+   ]
+  },
+  {
+   "id": "pasadena",
+   "label": "Pasadena vor dem Krieg",
+   "short": "Pasadena",
+   "from": 1930,
+   "to": 1941,
+   "status": "proposed",
+   "source": "Biographie: Leitung des Guggenheim Aeronautical Laboratory am California Institute of Technology (GALCIT) ab 1930. Bestätigung durch den Autor ausstehend.",
+   "note": null,
+   "subbands": [],
+   "n_units": 3459,
+   "n_karman": 1798,
+   "n_counterparts": 582,
+   "correspondents": [
+    {
+     "id": 9685,
+     "name": "Putnam, P. C.",
+     "kind": "person",
+     "n": 100
+    },
+    {
+     "id": 9813,
+     "name": "Herzfeld, H.",
+     "kind": "person",
+     "n": 91
+    },
+    {
+     "id": 3992,
+     "name": "Barrett, E. C.",
+     "kind": "person",
+     "n": 36
+    },
+    {
+     "id": 6867,
+     "name": "Gaylord, J. M.",
+     "kind": "person",
+     "n": 35
+    },
+    {
+     "id": 2797,
+     "name": "Gardner, Lester D.",
+     "kind": "person",
+     "n": 28
+    },
+    {
+     "id": 12456,
+     "name": "Wilbur, J. B.",
+     "kind": "person",
+     "n": 26
+    },
+    {
+     "id": 6955,
+     "name": "Walter, R. F.",
+     "kind": "person",
+     "n": 24
+    },
+    {
+     "id": 6984,
+     "name": "Barnes, D. P.",
+     "kind": "person",
+     "n": 23
+    },
+    {
+     "id": 3610,
+     "name": "Fulton, Garland",
+     "kind": "person",
+     "n": 22
+    },
+    {
+     "id": 12067,
+     "name": "Haines, John F.",
+     "kind": "person",
+     "n": 21
+    },
+    {
+     "id": 939,
+     "name": "Arnstein, Karl",
+     "kind": "person",
+     "n": 20
+    },
+    {
+     "id": 9815,
+     "name": "Dowell &amp; Dowell",
+     "kind": "institution",
+     "n": 20
+    }
+   ],
+   "distinct_topics": [
+    {
+     "tag": "wind turbine",
+     "label": "Windturbinen",
+     "z": 16.75,
+     "n": 445
+    },
+    {
+     "tag": "tacoma narrows bridge",
+     "label": "Tacoma-Narrows-Brücke",
+     "z": 15.79,
+     "n": 516
+    },
+    {
+     "tag": "hydraulics",
+     "label": "Hydraulik",
+     "z": 13.01,
+     "n": 243
+    },
+    {
+     "tag": "pump testing",
+     "label": "Pumpenversuche",
+     "z": 11.91,
+     "n": 209
+    },
+    {
+     "tag": "cavitation",
+     "label": "Kavitation",
+     "z": 9.28,
+     "n": 128
+    },
+    {
+     "tag": "hydraulic machinery",
+     "label": "hydraulic machinery",
+     "z": 8.48,
+     "n": 104
+    },
+    {
+     "tag": "bureau of reclamation",
+     "label": "bureau of reclamation",
+     "z": 6.36,
+     "n": 61
+    },
+    {
+     "tag": "personnel",
+     "label": "personnel",
+     "z": 6.13,
+     "n": 79
+    },
+    {
+     "tag": "windmill",
+     "label": "windmill",
+     "z": 5.95,
+     "n": 52
+    },
+    {
+     "tag": "hydraulic machinery laboratory",
+     "label": "hydraulic machinery laboratory",
+     "z": 5.87,
+     "n": 52
+    }
+   ],
+   "subjects": [
+    {
+     "tag": "aerodynamics",
+     "label": "Aerodynamik",
+     "n": 261,
+     "share": 0.07545533391153512
+    },
+    {
+     "tag": "aerodynamic theory",
+     "label": "Aerodynamische Theorie",
+     "n": 5,
+     "share": 0.0014455044810638912
+    },
+    {
+     "tag": "turbulence",
+     "label": "Turbulenz",
+     "n": 110,
+     "share": 0.03180109858340561
+    },
+    {
+     "tag": "boundary layer",
+     "label": "Grenzschicht",
+     "n": 33,
+     "share": 0.009540329575021683
+    },
+    {
+     "tag": "fluid mechanics",
+     "label": "Strömungsmechanik",
+     "n": 61,
+     "share": 0.017635154668979473
+    },
+    {
+     "tag": "wind tunnel",
+     "label": "Windkanal",
+     "n": 172,
+     "share": 0.04972535414859786
+    },
+    {
+     "tag": "aerodynamic stability",
+     "label": "Aerodynamische Stabilität",
+     "n": 5,
+     "share": 0.0014455044810638912
+    },
+    {
+     "tag": "supersonic flow",
+     "label": "Überschallströmung",
+     "n": 13,
+     "share": 0.0037583116507661175
+    },
+    {
+     "tag": "shock waves",
+     "label": "Stoßwellen",
+     "n": 6,
+     "share": 0.0017346053772766695
+    },
+    {
+     "tag": "compressible flow",
+     "label": "Kompressible Strömung",
+     "n": 11,
+     "share": 0.003180109858340561
+    },
+    {
+     "tag": "jet propulsion",
+     "label": "Strahlantrieb",
+     "n": 3,
+     "share": 0.0008673026886383347
+    },
+    {
+     "tag": "rockets",
+     "label": "Raketen",
+     "n": 12,
+     "share": 0.003469210754553339
+    },
+    {
+     "tag": "missiles",
+     "label": "Lenkflugkörper",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "space flight",
+     "label": "Raumfahrt",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "combustion",
+     "label": "Verbrennung",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "heat transfer",
+     "label": "Wärmeübertragung",
+     "n": 29,
+     "share": 0.00838392599017057
+    },
+    {
+     "tag": "helicopter",
+     "label": "Hubschrauber",
+     "n": 3,
+     "share": 0.0008673026886383347
+    },
+    {
+     "tag": "propellers",
+     "label": "Propeller",
+     "n": 59,
+     "share": 0.017056952876553916
+    },
+    {
+     "tag": "aircraft design",
+     "label": "Flugzeugentwurf",
+     "n": 20,
+     "share": 0.005782017924255565
+    },
+    {
+     "tag": "elasticity",
+     "label": "Elastizität",
+     "n": 15,
+     "share": 0.004336513443191674
+    },
+    {
+     "tag": "structural mechanics",
+     "label": "Strukturmechanik",
+     "n": 1,
+     "share": 0.0002891008962127783
+    },
+    {
+     "tag": "stress analysis",
+     "label": "Spannungsanalyse",
+     "n": 33,
+     "share": 0.009540329575021683
+    },
+    {
+     "tag": "suspension bridges",
+     "label": "Hängebrücken",
+     "n": 109,
+     "share": 0.03151199768719283
+    },
+    {
+     "tag": "tacoma narrows bridge",
+     "label": "Tacoma-Narrows-Brücke",
+     "n": 516,
+     "share": 0.1491760624457936
+    },
+    {
+     "tag": "hydraulics",
+     "label": "Hydraulik",
+     "n": 243,
+     "share": 0.07025151777970512
+    },
+    {
+     "tag": "cavitation",
+     "label": "Kavitation",
+     "n": 128,
+     "share": 0.03700491471523562
+    },
+    {
+     "tag": "pump testing",
+     "label": "Pumpenversuche",
+     "n": 209,
+     "share": 0.06042208730847066
+    },
+    {
+     "tag": "wind turbine",
+     "label": "Windturbinen",
+     "n": 445,
+     "share": 0.12864989881468633
+    },
+    {
+     "tag": "turbine blades",
+     "label": "Turbinenschaufeln",
+     "n": 15,
+     "share": 0.004336513443191674
+    },
+    {
+     "tag": "patents",
+     "label": "Patente",
+     "n": 311,
+     "share": 0.08991037872217404
+    },
+    {
+     "tag": "mathematics",
+     "label": "Mathematik",
+     "n": 18,
+     "share": 0.005203816131830009
+    }
+   ],
+   "institutions": [
+    {
+     "name": "California Institute of Technology",
+     "n": 1025
+    },
+    {
+     "name": "Bureau of Reclamation",
+     "n": 232
+    },
+    {
+     "name": "Washington Toll Bridge Authority",
+     "n": 200
+    },
+    {
+     "name": "S. Morgan Smith Company",
+     "n": 163
+    },
+    {
+     "name": "Reconstruction Finance Corporation",
+     "n": 151
+    },
+    {
+     "name": "Public Works Administration",
+     "n": 101
+    },
+    {
+     "name": "Metropolitan Water District of Southern California",
+     "n": 87
+    },
+    {
+     "name": "University of Washington",
+     "n": 69
+    }
+   ],
+   "cities": [
+    {
+     "id": "pasadena",
+     "label": "Pasadena",
+     "lat": 34.15,
+     "lon": -118.14,
+     "n": 672
+    },
+    {
+     "id": "berlin",
+     "label": "Berlin",
+     "lat": 52.52,
+     "lon": 13.4,
+     "n": 145
+    },
+    {
+     "id": "newyork",
+     "label": "New York",
+     "lat": 40.71,
+     "lon": -74.01,
+     "n": 131
+    },
+    {
+     "id": "washington",
+     "label": "Washington",
+     "lat": 38.9,
+     "lon": -77.04,
+     "n": 96
+    },
+    {
+     "id": "seattle",
+     "label": "Seattle",
+     "lat": 47.61,
+     "lon": -122.33,
+     "n": 95
+    },
+    {
+     "id": "aachen",
+     "label": "Aachen",
+     "lat": 50.78,
+     "lon": 6.08,
+     "n": 92
+    },
+    {
+     "id": "philadelphia",
+     "label": "Philadelphia",
+     "lat": 39.95,
+     "lon": -75.17,
+     "n": 86
+    },
+    {
+     "id": "york",
+     "label": "York (Pa.)",
+     "lat": 39.96,
+     "lon": -76.73,
+     "n": 74
+    },
+    {
+     "id": "losangeles",
+     "label": "Los Angeles",
+     "lat": 34.05,
+     "lon": -118.24,
+     "n": 73
+    },
+    {
+     "id": "boston",
+     "label": "Boston",
+     "lat": 42.36,
+     "lon": -71.06,
+     "n": 72
+    }
+   ],
+   "n_with_place": 2536,
+   "languages": [
+    {
+     "key": "english",
+     "label": "Englisch",
+     "n": 2894
+    },
+    {
+     "key": "german",
+     "label": "Deutsch",
+     "n": 436
+    },
+    {
+     "key": "french",
+     "label": "Französisch",
+     "n": 76
+    },
+    {
+     "key": "hungarian",
+     "label": "Ungarisch",
+     "n": 43
+    },
+    {
+     "key": "italian",
+     "label": "Italienisch",
+     "n": 5
+    },
+    {
+     "key": "other",
+     "label": "Andere",
+     "n": 5
+    }
+   ],
+   "manuscripts": {
+    "n": 31,
+    "pages": 1109
+   },
+   "evidence": [
+    {
+     "term": "GALCIT",
+     "date": "1933-01-27",
+     "letter_id": "1-28_arnstein_karl_1924_1933/024",
+     "regest": "Arnstein comments on GALCIT report #116, questioning the high tare drag due to the panel board suspension and blunt edges. He suggests additional tests to isolate secondary influences and requests pitot traverse measurements, asking if these can be done without extra cost.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=1-28_arnstein_karl_1924_1933&p=34"
+    },
+    {
+     "term": "GALCIT",
+     "date": "1940-02-05",
+     "letter_id": "116-11_reprint_requests/028",
+     "regest": "Von Kármán states that GALCIT Publication #116 is available to foreign scientists, including Germans, upon inquiry, but is definitely not available to the German Consulate in Los Angeles.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=116-11_reprint_requests&p=30"
+    }
+   ]
+  },
+  {
+   "id": "beratung",
+   "label": "Krieg und wissenschaftliche Beratung",
+   "short": "Beratung",
+   "from": 1942,
+   "to": 1950,
+   "status": "proposed",
+   "source": "Biographie: Kriegseintritt der USA im Dezember 1941; Jet Propulsion Laboratory 1944; Leitung der Scientific Advisory Group der Army Air Forces ab 1944, danach Scientific Advisory Board. Bestätigung durch den Autor ausstehend.",
+   "note": null,
+   "subbands": [],
+   "n_units": 1754,
+   "n_karman": 898,
+   "n_counterparts": 363,
+   "correspondents": [
+    {
+     "id": 116,
+     "name": "Gabrielli, Giuseppe",
+     "kind": "person",
+     "n": 26
+    },
+    {
+     "id": 4011,
+     "name": "Andrew, Charles E.",
+     "kind": "person",
+     "n": 23
+    },
+    {
+     "id": 2534,
+     "name": "Meyers, Ethel",
+     "kind": "person",
+     "n": 22
+    },
+    {
+     "id": 76,
+     "name": "Alperin, Morton",
+     "kind": "person",
+     "n": 20
+    },
+    {
+     "id": 12450,
+     "name": "Wilcox, Carl J.",
+     "kind": "person",
+     "n": 20
+    },
+    {
+     "id": 3235,
+     "name": "Ammann, O. H.",
+     "kind": "person",
+     "n": 17
+    },
+    {
+     "id": 4773,
+     "name": "Kelley, E. F.",
+     "kind": "person",
+     "n": 17
+    },
+    {
+     "id": 3798,
+     "name": "Andrew, Chas. E.",
+     "kind": "person",
+     "n": 17
+    },
+    {
+     "id": 4771,
+     "name": "McCullough, C. B.",
+     "kind": "person",
+     "n": 17
+    },
+    {
+     "id": 10755,
+     "name": "Haley, Andrew G.",
+     "kind": "person",
+     "n": 13
+    },
+    {
+     "id": 12258,
+     "name": "Hoff, Nicholas J.",
+     "kind": "person",
+     "n": 13
+    },
+    {
+     "id": 4750,
+     "name": "Jakkula, A. A.",
+     "kind": "person",
+     "n": 12
+    }
+   ],
+   "distinct_topics": [
+    {
+     "tag": "suspension bridges",
+     "label": "Hängebrücken",
+     "z": 25.58,
+     "n": 485
+    },
+    {
+     "tag": "model tests",
+     "label": "model tests",
+     "z": 12.45,
+     "n": 130
+    },
+    {
+     "tag": "aerodynamic stability",
+     "label": "Aerodynamische Stabilität",
+     "z": 12.44,
+     "n": 115
+    },
+    {
+     "tag": "model studies",
+     "label": "model studies",
+     "z": 7.35,
+     "n": 40
+    },
+    {
+     "tag": "advisory board",
+     "label": "advisory board",
+     "z": 6.99,
+     "n": 39
+    },
+    {
+     "tag": "damping",
+     "label": "damping",
+     "z": 6.76,
+     "n": 44
+    },
+    {
+     "tag": "stiffness index",
+     "label": "stiffness index",
+     "z": 6.57,
+     "n": 39
+    },
+    {
+     "tag": "field observations",
+     "label": "field observations",
+     "z": 6.45,
+     "n": 31
+    },
+    {
+     "tag": "advisory committee",
+     "label": "advisory committee",
+     "z": 5.55,
+     "n": 25
+    },
+    {
+     "tag": "supersonic flow",
+     "label": "Überschallströmung",
+     "z": 5.43,
+     "n": 37
+    }
+   ],
+   "subjects": [
+    {
+     "tag": "aerodynamics",
+     "label": "Aerodynamik",
+     "n": 214,
+     "share": 0.12200684150513112
+    },
+    {
+     "tag": "aerodynamic theory",
+     "label": "Aerodynamische Theorie",
+     "n": 3,
+     "share": 0.0017103762827822121
+    },
+    {
+     "tag": "turbulence",
+     "label": "Turbulenz",
+     "n": 56,
+     "share": 0.03192702394526796
+    },
+    {
+     "tag": "boundary layer",
+     "label": "Grenzschicht",
+     "n": 17,
+     "share": 0.009692132269099202
+    },
+    {
+     "tag": "fluid mechanics",
+     "label": "Strömungsmechanik",
+     "n": 34,
+     "share": 0.019384264538198404
+    },
+    {
+     "tag": "wind tunnel",
+     "label": "Windkanal",
+     "n": 86,
+     "share": 0.04903078677309008
+    },
+    {
+     "tag": "aerodynamic stability",
+     "label": "Aerodynamische Stabilität",
+     "n": 115,
+     "share": 0.06556442417331813
+    },
+    {
+     "tag": "supersonic flow",
+     "label": "Überschallströmung",
+     "n": 37,
+     "share": 0.021094640820980615
+    },
+    {
+     "tag": "shock waves",
+     "label": "Stoßwellen",
+     "n": 17,
+     "share": 0.009692132269099202
+    },
+    {
+     "tag": "compressible flow",
+     "label": "Kompressible Strömung",
+     "n": 12,
+     "share": 0.0068415051311288486
+    },
+    {
+     "tag": "jet propulsion",
+     "label": "Strahlantrieb",
+     "n": 32,
+     "share": 0.018244013683010263
+    },
+    {
+     "tag": "rockets",
+     "label": "Raketen",
+     "n": 25,
+     "share": 0.014253135689851768
+    },
+    {
+     "tag": "missiles",
+     "label": "Lenkflugkörper",
+     "n": 7,
+     "share": 0.003990877993158495
+    },
+    {
+     "tag": "space flight",
+     "label": "Raumfahrt",
+     "n": 1,
+     "share": 0.0005701254275940707
+    },
+    {
+     "tag": "combustion",
+     "label": "Verbrennung",
+     "n": 6,
+     "share": 0.0034207525655644243
+    },
+    {
+     "tag": "heat transfer",
+     "label": "Wärmeübertragung",
+     "n": 12,
+     "share": 0.0068415051311288486
+    },
+    {
+     "tag": "helicopter",
+     "label": "Hubschrauber",
+     "n": 1,
+     "share": 0.0005701254275940707
+    },
+    {
+     "tag": "propellers",
+     "label": "Propeller",
+     "n": 4,
+     "share": 0.002280501710376283
+    },
+    {
+     "tag": "aircraft design",
+     "label": "Flugzeugentwurf",
+     "n": 7,
+     "share": 0.003990877993158495
+    },
+    {
+     "tag": "elasticity",
+     "label": "Elastizität",
+     "n": 3,
+     "share": 0.0017103762827822121
+    },
+    {
+     "tag": "structural mechanics",
+     "label": "Strukturmechanik",
+     "n": 3,
+     "share": 0.0017103762827822121
+    },
+    {
+     "tag": "stress analysis",
+     "label": "Spannungsanalyse",
+     "n": 3,
+     "share": 0.0017103762827822121
+    },
+    {
+     "tag": "suspension bridges",
+     "label": "Hängebrücken",
+     "n": 485,
+     "share": 0.2765108323831243
+    },
+    {
+     "tag": "tacoma narrows bridge",
+     "label": "Tacoma-Narrows-Brücke",
+     "n": 161,
+     "share": 0.09179019384264538
+    },
+    {
+     "tag": "hydraulics",
+     "label": "Hydraulik",
+     "n": 1,
+     "share": 0.0005701254275940707
+    },
+    {
+     "tag": "cavitation",
+     "label": "Kavitation",
+     "n": 5,
+     "share": 0.0028506271379703536
+    },
+    {
+     "tag": "pump testing",
+     "label": "Pumpenversuche",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "wind turbine",
+     "label": "Windturbinen",
+     "n": 72,
+     "share": 0.04104903078677309
+    },
+    {
+     "tag": "turbine blades",
+     "label": "Turbinenschaufeln",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "patents",
+     "label": "Patente",
+     "n": 17,
+     "share": 0.009692132269099202
+    },
+    {
+     "tag": "mathematics",
+     "label": "Mathematik",
+     "n": 10,
+     "share": 0.005701254275940707
+    }
+   ],
+   "institutions": [
+    {
+     "name": "California Institute of Technology",
+     "n": 305
+    },
+    {
+     "name": "Washington Toll Bridge Authority",
+     "n": 172
+    },
+    {
+     "name": "Public Roads Administration",
+     "n": 144
+    },
+    {
+     "name": "Federal Works Agency",
+     "n": 86
+    },
+    {
+     "name": "University of Washington",
+     "n": 76
+    },
+    {
+     "name": "Advisory Board on the Investigation of Suspension Bridges",
+     "n": 66
+    },
+    {
+     "name": "S. Morgan Smith Company",
+     "n": 43
+    },
+    {
+     "name": "Army Air Forces",
+     "n": 41
+    }
+   ],
+   "cities": [
+    {
+     "id": "newyork",
+     "label": "New York",
+     "lat": 40.71,
+     "lon": -74.01,
+     "n": 227
+    },
+    {
+     "id": "pasadena",
+     "label": "Pasadena",
+     "lat": 34.15,
+     "lon": -118.14,
+     "n": 162
+    },
+    {
+     "id": "washington",
+     "label": "Washington",
+     "lat": 38.9,
+     "lon": -77.04,
+     "n": 136
+    },
+    {
+     "id": "paris",
+     "label": "Paris",
+     "lat": 48.86,
+     "lon": 2.35,
+     "n": 60
+    },
+    {
+     "id": "seattle",
+     "label": "Seattle",
+     "lat": 47.61,
+     "lon": -122.33,
+     "n": 47
+    },
+    {
+     "id": "tacoma",
+     "label": "Tacoma",
+     "lat": 47.25,
+     "lon": -122.44,
+     "n": 38
+    },
+    {
+     "id": "olympia",
+     "label": "Olympia",
+     "lat": 47.04,
+     "lon": -122.9,
+     "n": 36
+    },
+    {
+     "id": "salem",
+     "label": "Salem (Or.)",
+     "lat": 44.94,
+     "lon": -123.04,
+     "n": 35
+    },
+    {
+     "id": "cambridge_ma",
+     "label": "Cambridge (Mass.)",
+     "lat": 42.37,
+     "lon": -71.11,
+     "n": 32
+    },
+    {
+     "id": "turin",
+     "label": "Turin",
+     "lat": 45.07,
+     "lon": 7.69,
+     "n": 26
+    }
+   ],
+   "n_with_place": 1287,
+   "languages": [
+    {
+     "key": "english",
+     "label": "Englisch",
+     "n": 1625
+    },
+    {
+     "key": "french",
+     "label": "Französisch",
+     "n": 45
+    },
+    {
+     "key": "german",
+     "label": "Deutsch",
+     "n": 44
+    },
+    {
+     "key": "hungarian",
+     "label": "Ungarisch",
+     "n": 19
+    },
+    {
+     "key": "spanish",
+     "label": "Spanisch",
+     "n": 12
+    },
+    {
+     "key": "italian",
+     "label": "Italienisch",
+     "n": 5
+    },
+    {
+     "key": "other",
+     "label": "Andere",
+     "n": 4
+    }
+   ],
+   "manuscripts": {
+    "n": 31,
+    "pages": 1094
+   },
+   "evidence": [
+    {
+     "term": "Scientific Advisory",
+     "date": "1945-02-14",
+     "letter_id": "10-9_fulton_garland_1932_1957/021",
+     "regest": "Kármán apologizes for missing Fulton in New York and provides his new address at the War Department, Army Air Forces, Scientific Advisory Group, inviting Fulton to look him up in Washington.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=10-9_fulton_garland_1932_1957&p=26"
+    },
+    {
+     "term": "Scientific Advisory",
+     "date": "1946-01-03",
+     "letter_id": "11-23_gorgenyi_geza_1962/003",
+     "regest": "Kármán informs Gongwer that his December 20 telegram was received and that steps will be taken to secure his services. He notes he is on leave from Caltech and attached to the Army Air Forces Scientific Advisory Group at the Pentagon, and hopes Gongwer will hear from Aerojet and Caltech soon.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=11-23_gorgenyi_geza_1962&p=2"
+    },
+    {
+     "term": "Scientific Advisory",
+     "date": "1946-07-19",
+     "letter_id": "10-13_gabrielli_giuseppe_lydia_crocco_1945_1950/009",
+     "regest": "Gabrielli congratulates von Kármán on his appointment as General Manager of the U.S. Scientific Advisory Board and on a high distinction awarded to him. He mentions Prof. Valletta's cable, the Italian Ambassador's assistance with travel, and asks for von Kármán's final decision regarding his visit to Italy.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=10-13_gabrielli_giuseppe_lydia_crocco_1945_1950&p=10"
+    },
+    {
+     "term": "Army Air Forces",
+     "date": "1943-07-30",
+     "letter_id": "116-14_reprint_requests/038",
+     "regest": "Theodore von Kármán replies to Henry W. Woolard that Caltech has no reprints of Dr. Wattendorf's paper, but suggests contacting Wattendorf directly at the Army Air Forces, Materiel Center, Wind Tunnel Unit, Wright Field, Dayton, Ohio.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=116-14_reprint_requests&p=42"
+    }
+   ]
+  },
+  {
+   "id": "agard",
+   "label": "AGARD und die letzten Jahre",
+   "short": "AGARD",
+   "from": 1951,
+   "to": 1963,
+   "status": "proposed",
+   "source": "Biographie: Vorsitz der Advisory Group for Aeronautical Research and Development (AGARD) der NATO ab 1951/52; Tod am 6. Mai 1963 in Aachen. Bestätigung durch den Autor ausstehend.",
+   "note": null,
+   "subbands": [],
+   "n_units": 1892,
+   "n_karman": 1193,
+   "n_counterparts": 476,
+   "correspondents": [
+    {
+     "id": 116,
+     "name": "Gabrielli, Giuseppe",
+     "kind": "person",
+     "n": 119
+    },
+    {
+     "id": 3098,
+     "name": "Guggenheim, Harry F.",
+     "kind": "person",
+     "n": 35
+    },
+    {
+     "id": 13793,
+     "name": "Parker, A. K.",
+     "kind": "person",
+     "n": 26
+    },
+    {
+     "id": 10755,
+     "name": "Haley, Andrew G.",
+     "kind": "person",
+     "n": 23
+    },
+    {
+     "id": 2235,
+     "name": "Sears, W. R.",
+     "kind": "person",
+     "n": 23
+    },
+    {
+     "id": 762,
+     "name": "Armandias, L. S.",
+     "kind": "person",
+     "n": 20
+    },
+    {
+     "id": 12258,
+     "name": "Hoff, Nicholas J.",
+     "kind": "person",
+     "n": 17
+    },
+    {
+     "id": 14604,
+     "name": "Harrington, R. Paul",
+     "kind": "person",
+     "n": 16
+    },
+    {
+     "id": 18165,
+     "name": "Heiman, Eric E.",
+     "kind": "person",
+     "n": 16
+    },
+    {
+     "id": 13790,
+     "name": "Heiman, E. E.",
+     "kind": "person",
+     "n": 15
+    },
+    {
+     "id": 2051,
+     "name": "Gabrielli, Lydia",
+     "kind": "person",
+     "n": 14
+    },
+    {
+     "id": 939,
+     "name": "Arnstein, Karl",
+     "kind": "person",
+     "n": 12
+    }
+   ],
+   "distinct_topics": [
+    {
+     "tag": "collected papers",
+     "label": "collected papers",
+     "z": 8.76,
+     "n": 68
+    },
+    {
+     "tag": "illustrations",
+     "label": "illustrations",
+     "z": 8.7,
+     "n": 61
+    },
+    {
+     "tag": "photographs",
+     "label": "photographs",
+     "z": 7.33,
+     "n": 46
+    },
+    {
+     "tag": "combustion",
+     "label": "Verbrennung",
+     "z": 6.96,
+     "n": 35
+    },
+    {
+     "tag": "agard",
+     "label": "agard",
+     "z": 6.79,
+     "n": 41
+    },
+    {
+     "tag": "space flight",
+     "label": "Raumfahrt",
+     "z": 6.38,
+     "n": 33
+    },
+    {
+     "tag": "publishing",
+     "label": "publishing",
+     "z": 6.37,
+     "n": 43
+    },
+    {
+     "tag": "editing",
+     "label": "editing",
+     "z": 6.1,
+     "n": 30
+    },
+    {
+     "tag": "gratitude",
+     "label": "gratitude",
+     "z": 5.91,
+     "n": 34
+    },
+    {
+     "tag": "invitation",
+     "label": "invitation",
+     "z": 5.82,
+     "n": 35
+    }
+   ],
+   "subjects": [
+    {
+     "tag": "aerodynamics",
+     "label": "Aerodynamik",
+     "n": 130,
+     "share": 0.06871035940803383
+    },
+    {
+     "tag": "aerodynamic theory",
+     "label": "Aerodynamische Theorie",
+     "n": 4,
+     "share": 0.0021141649048625794
+    },
+    {
+     "tag": "turbulence",
+     "label": "Turbulenz",
+     "n": 41,
+     "share": 0.021670190274841437
+    },
+    {
+     "tag": "boundary layer",
+     "label": "Grenzschicht",
+     "n": 11,
+     "share": 0.005813953488372093
+    },
+    {
+     "tag": "fluid mechanics",
+     "label": "Strömungsmechanik",
+     "n": 31,
+     "share": 0.01638477801268499
+    },
+    {
+     "tag": "wind tunnel",
+     "label": "Windkanal",
+     "n": 20,
+     "share": 0.010570824524312896
+    },
+    {
+     "tag": "aerodynamic stability",
+     "label": "Aerodynamische Stabilität",
+     "n": 20,
+     "share": 0.010570824524312896
+    },
+    {
+     "tag": "supersonic flow",
+     "label": "Überschallströmung",
+     "n": 17,
+     "share": 0.008985200845665961
+    },
+    {
+     "tag": "shock waves",
+     "label": "Stoßwellen",
+     "n": 8,
+     "share": 0.004228329809725159
+    },
+    {
+     "tag": "compressible flow",
+     "label": "Kompressible Strömung",
+     "n": 2,
+     "share": 0.0010570824524312897
+    },
+    {
+     "tag": "jet propulsion",
+     "label": "Strahlantrieb",
+     "n": 30,
+     "share": 0.015856236786469344
+    },
+    {
+     "tag": "rockets",
+     "label": "Raketen",
+     "n": 35,
+     "share": 0.01849894291754757
+    },
+    {
+     "tag": "missiles",
+     "label": "Lenkflugkörper",
+     "n": 24,
+     "share": 0.012684989429175475
+    },
+    {
+     "tag": "space flight",
+     "label": "Raumfahrt",
+     "n": 33,
+     "share": 0.01744186046511628
+    },
+    {
+     "tag": "combustion",
+     "label": "Verbrennung",
+     "n": 35,
+     "share": 0.01849894291754757
+    },
+    {
+     "tag": "heat transfer",
+     "label": "Wärmeübertragung",
+     "n": 7,
+     "share": 0.0036997885835095136
+    },
+    {
+     "tag": "helicopter",
+     "label": "Hubschrauber",
+     "n": 10,
+     "share": 0.005285412262156448
+    },
+    {
+     "tag": "propellers",
+     "label": "Propeller",
+     "n": 1,
+     "share": 0.0005285412262156448
+    },
+    {
+     "tag": "aircraft design",
+     "label": "Flugzeugentwurf",
+     "n": 5,
+     "share": 0.002642706131078224
+    },
+    {
+     "tag": "elasticity",
+     "label": "Elastizität",
+     "n": 8,
+     "share": 0.004228329809725159
+    },
+    {
+     "tag": "structural mechanics",
+     "label": "Strukturmechanik",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "stress analysis",
+     "label": "Spannungsanalyse",
+     "n": 5,
+     "share": 0.002642706131078224
+    },
+    {
+     "tag": "suspension bridges",
+     "label": "Hängebrücken",
+     "n": 41,
+     "share": 0.021670190274841437
+    },
+    {
+     "tag": "tacoma narrows bridge",
+     "label": "Tacoma-Narrows-Brücke",
+     "n": 7,
+     "share": 0.0036997885835095136
+    },
+    {
+     "tag": "hydraulics",
+     "label": "Hydraulik",
+     "n": 1,
+     "share": 0.0005285412262156448
+    },
+    {
+     "tag": "cavitation",
+     "label": "Kavitation",
+     "n": 3,
+     "share": 0.0015856236786469344
+    },
+    {
+     "tag": "pump testing",
+     "label": "Pumpenversuche",
+     "n": 2,
+     "share": 0.0010570824524312897
+    },
+    {
+     "tag": "wind turbine",
+     "label": "Windturbinen",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "turbine blades",
+     "label": "Turbinenschaufeln",
+     "n": 0,
+     "share": 0.0
+    },
+    {
+     "tag": "patents",
+     "label": "Patente",
+     "n": 33,
+     "share": 0.01744186046511628
+    },
+    {
+     "tag": "mathematics",
+     "label": "Mathematik",
+     "n": 4,
+     "share": 0.0021141649048625794
+    }
+   ],
+   "institutions": [
+    {
+     "name": "AGARD",
+     "n": 156
+    },
+    {
+     "name": "California Institute of Technology",
+     "n": 119
+    },
+    {
+     "name": "NATO",
+     "n": 88
+    },
+    {
+     "name": "Cornell University",
+     "n": 81
+    },
+    {
+     "name": "Fiat",
+     "n": 70
+    },
+    {
+     "name": "Advisory Group for Aeronautical Research and Development",
+     "n": 65
+    },
+    {
+     "name": "Butterworths",
+     "n": 44
+    },
+    {
+     "name": "Institute of the Aeronautical Sciences",
+     "n": 41
+    }
+   ],
+   "cities": [
+    {
+     "id": "pasadena",
+     "label": "Pasadena",
+     "lat": 34.15,
+     "lon": -118.14,
+     "n": 140
+    },
+    {
+     "id": "turin",
+     "label": "Turin",
+     "lat": 45.07,
+     "lon": 7.69,
+     "n": 131
+    },
+    {
+     "id": "paris",
+     "label": "Paris",
+     "lat": 48.86,
+     "lon": 2.35,
+     "n": 128
+    },
+    {
+     "id": "newyork",
+     "label": "New York",
+     "lat": 40.71,
+     "lon": -74.01,
+     "n": 108
+    },
+    {
+     "id": "washington",
+     "label": "Washington",
+     "lat": 38.9,
+     "lon": -77.04,
+     "n": 100
+    },
+    {
+     "id": "london",
+     "label": "London",
+     "lat": 51.51,
+     "lon": -0.13,
+     "n": 69
+    },
+    {
+     "id": "ithaca",
+     "label": "Ithaca",
+     "lat": 42.44,
+     "lon": -76.5,
+     "n": 64
+    },
+    {
+     "id": "madrid",
+     "label": "Madrid",
+     "lat": 40.42,
+     "lon": -3.7,
+     "n": 41
+    },
+    {
+     "id": "geneva",
+     "label": "Genf",
+     "lat": 46.2,
+     "lon": 6.14,
+     "n": 39
+    },
+    {
+     "id": "losangeles",
+     "label": "Los Angeles",
+     "lat": 34.05,
+     "lon": -118.24,
+     "n": 32
+    }
+   ],
+   "n_with_place": 1382,
+   "languages": [
+    {
+     "key": "english",
+     "label": "Englisch",
+     "n": 1549
+    },
+    {
+     "key": "german",
+     "label": "Deutsch",
+     "n": 138
+    },
+    {
+     "key": "french",
+     "label": "Französisch",
+     "n": 85
+    },
+    {
+     "key": "hungarian",
+     "label": "Ungarisch",
+     "n": 57
+    },
+    {
+     "key": "spanish",
+     "label": "Spanisch",
+     "n": 31
+    },
+    {
+     "key": "italian",
+     "label": "Italienisch",
+     "n": 26
+    },
+    {
+     "key": "other",
+     "label": "Andere",
+     "n": 6
+    }
+   ],
+   "manuscripts": {
+    "n": 40,
+    "pages": 1036
+   },
+   "evidence": [
+    {
+     "term": "AGARD",
+     "date": "1952-03-28",
+     "letter_id": "1-31_an_ar_miscellaneous/013",
+     "regest": "Antonenko expresses sympathy for the loss of von Kármán's sister, congratulates him on his AGARD chairmanship, and offers his background in aeronautical engineering and psychological warfare against the Politbureau for von Kármán's new activities.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=1-31_an_ar_miscellaneous&p=22"
+    },
+    {
+     "term": "AGARD",
+     "date": "1952-05-24",
+     "letter_id": "10-15_gabrielli_giuseppe_lydia_crocco_april_dec_1952/018",
+     "regest": "Gabrielli thanks Kármán for organizing an interesting meeting in Paris and for his AGARD assignment. He regrets being unable to attend the Golden Medal ceremony in London, invites Kármán to Turin for a lecture on structural similitude, and discusses difficulties with the horizontal tail unit balancing of the G 80, mentioning F 84 accidents in Germany.",
+     "link": "https://lettre.ngrok.dev/karman/?doc=10-15_gabrielli_giuseppe_lydia_crocco_april_dec_1952&p=19"
+    }
+   ]
+  }
+ ],
+ "bump": [
+  {
+   "id": 10901,
+   "name": "Goldziher, Károly",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": 1,
+     "n": 13
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "id": 6802,
+   "name": "Weil, H.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": 2,
+     "n": 3
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 18275,
+   "name": "Hellinger, Gyuri",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": 3,
+     "n": 3
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 409,
+   "name": "Fallon, Edmund",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": 4,
+     "n": 1
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 537,
+   "name": "Abraham, Max",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": 5,
+     "n": 1
+    },
+    {
+     "period": "aachen",
+     "rank": 18,
+     "n": 7
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 1395,
+   "name": "Krylov, A. N.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": 6,
+     "n": 1
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 415,
+   "name": "Angus, Robert W.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": 1,
+     "n": 148
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 1
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 1
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 9813,
+   "name": "Herzfeld, H.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": 2,
+     "n": 120
+    },
+    {
+     "period": "pasadena",
+     "rank": 2,
+     "n": 91
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 10761,
+   "name": "Gehlhoff, Georg",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": 3,
+     "n": 42
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 10776,
+   "name": "Hopf, Ludwig",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": 4,
+     "n": 34
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 4
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 3393,
+   "name": "Fromm, Karl",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": 5,
+     "n": 30
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 3189,
+   "name": "Gutehoffnungshütte",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": 6,
+     "n": 27
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 9685,
+   "name": "Putnam, P. C.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": 1,
+     "n": 100
+    },
+    {
+     "period": "beratung",
+     "rank": 13,
+     "n": 11
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 3992,
+   "name": "Barrett, E. C.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": 3,
+     "n": 36
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 6867,
+   "name": "Gaylord, J. M.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": 4,
+     "n": 35
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 2797,
+   "name": "Gardner, Lester D.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 1
+    },
+    {
+     "period": "pasadena",
+     "rank": 5,
+     "n": 28
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 6
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "id": 12456,
+   "name": "Wilbur, J. B.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": 6,
+     "n": 26
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 6
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "name": "Gabrielli, Giuseppe",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 4
+    },
+    {
+     "period": "pasadena",
+     "rank": 19,
+     "n": 16
+    },
+    {
+     "period": "beratung",
+     "rank": 1,
+     "n": 26
+    },
+    {
+     "period": "agard",
+     "rank": 1,
+     "n": 119
+    }
+   ]
+  },
+  {
+   "id": 4011,
+   "name": "Andrew, Charles E.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 3
+    },
+    {
+     "period": "beratung",
+     "rank": 2,
+     "n": 23
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 2534,
+   "name": "Meyers, Ethel",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": 3,
+     "n": 22
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "name": "Alperin, Morton",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": 4,
+     "n": 20
+    },
+    {
+     "period": "agard",
+     "rank": 21,
+     "n": 9
+    }
+   ]
+  },
+  {
+   "id": 12450,
+   "name": "Wilcox, Carl J.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 1
+    },
+    {
+     "period": "beratung",
+     "rank": 5,
+     "n": 20
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 3235,
+   "name": "Ammann, O. H.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": 15,
+     "n": 18
+    },
+    {
+     "period": "beratung",
+     "rank": 6,
+     "n": 17
+    },
+    {
+     "period": "agard",
+     "rank": null,
+     "n": 0
+    }
+   ]
+  },
+  {
+   "id": 3098,
+   "name": "Guggenheim, Harry F.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 2
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 7
+    },
+    {
+     "period": "beratung",
+     "rank": 15,
+     "n": 10
+    },
+    {
+     "period": "agard",
+     "rank": 2,
+     "n": 35
+    }
+   ]
+  },
+  {
+   "id": 13793,
+   "name": "Parker, A. K.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": 3,
+     "n": 26
+    }
+   ]
+  },
+  {
+   "id": 10755,
+   "name": "Haley, Andrew G.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 3
+    },
+    {
+     "period": "beratung",
+     "rank": 10,
+     "n": 13
+    },
+    {
+     "period": "agard",
+     "rank": 4,
+     "n": 23
+    }
+   ]
+  },
+  {
+   "id": 2235,
+   "name": "Sears, W. R.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 1
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "agard",
+     "rank": 5,
+     "n": 23
+    }
+   ]
+  },
+  {
+   "id": 762,
+   "name": "Armandias, L. S.",
+   "ranks": [
+    {
+     "period": "studium",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "aachen",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "pasadena",
+     "rank": null,
+     "n": 0
+    },
+    {
+     "period": "beratung",
+     "rank": null,
+     "n": 1
+    },
+    {
+     "period": "agard",
+     "rank": 6,
+     "n": 20
+    }
+   ]
+  }
+ ],
+ "flows": [
+  {
+   "period": "studium",
+   "size": 3,
+   "new": 3,
+   "continued_from_prev": 0,
+   "continue_to_next": 0,
+   "end": 3
+  },
+  {
+   "period": "aachen",
+   "size": 91,
+   "new": 91,
+   "continued_from_prev": 0,
+   "continue_to_next": 19,
+   "end": 72
+  },
+  {
+   "period": "pasadena",
+   "size": 230,
+   "new": 211,
+   "continued_from_prev": 19,
+   "continue_to_next": 26,
+   "end": 204
+  },
+  {
+   "period": "beratung",
+   "size": 144,
+   "new": 118,
+   "continued_from_prev": 26,
+   "continue_to_next": 26,
+   "end": 118
+  },
+  {
+   "period": "agard",
+   "size": 172,
+   "new": 146,
+   "continued_from_prev": 26,
+   "continue_to_next": null,
+   "end": null
+  }
+ ],
+ "n_undated": 6433,
+ "method": {
+  "distinct_topics": "Gewichteter Log-Odds-Quotient mit informativem Dirichlet-Prior (Monroe, Colaresi, Quinn 2008); Prior = Schlagwortzählung aller datierten Einheiten × 0,1; gezeigt: z > 1,96 und mindestens 5 Einheiten.",
+  "flows": "Korrespondenzpartner mit mindestens 2 Einheiten in einer Periode; verglichen mit der Nachbarperiode.",
+  "ranks": "Rang nach Zahl der Einheiten mit Kármán als Absender oder Empfänger; Ränge über 25 sind nicht gezeigt."
+ }
+}

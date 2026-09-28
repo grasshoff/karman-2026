@@ -1,0 +1,281 @@
+{
+ "name": "PDAI-Bestand",
+ "children": [
+  {
+   "id": "korrespondenz",
+   "name": "Korrespondenz",
+   "children": [
+    {
+     "name": "Korrespondenz mit Personen",
+     "category": "Correspondence",
+     "docs": 204,
+     "pages": 5048,
+     "units": 3535
+    },
+    {
+     "name": "Korrespondenz zu Vorträgen und Publikationen",
+     "category": "Administrative Correspondence",
+     "docs": 15,
+     "pages": 763,
+     "units": 525
+    },
+    {
+     "name": "Einladungen zu Vorträgen",
+     "category": "Invitations to Lecture",
+     "docs": 3,
+     "pages": 148,
+     "units": 123
+    }
+   ]
+  },
+  {
+   "id": "eigene",
+   "name": "Eigene Arbeiten",
+   "children": [
+    {
+     "name": "Technische Manuskripte und Notizen",
+     "category": "Manuscripts & Notes (Technical)",
+     "docs": 142,
+     "pages": 4566,
+     "units": 1103
+    },
+    {
+     "name": "Vorlesungen und Kurse",
+     "category": "Lectures & Courses",
+     "docs": 36,
+     "pages": 1400,
+     "units": 278
+    },
+    {
+     "name": "Daten und Berechnungen",
+     "category": "Data & Calculations",
+     "docs": 28,
+     "pages": 1385,
+     "units": 953
+    },
+    {
+     "name": "Sonderdrucke",
+     "category": "Reprints",
+     "docs": 31,
+     "pages": 843,
+     "units": 370
+    },
+    {
+     "name": "Allgemeine Manuskripte und Notizen",
+     "category": "Manuscripts & Notes (General)",
+     "docs": 41,
+     "pages": 656,
+     "units": 223
+    },
+    {
+     "name": "Buchmanuskripte",
+     "category": "Book Manuscripts",
+     "docs": 8,
+     "pages": 397,
+     "units": 42
+    },
+    {
+     "name": "Collected Works",
+     "category": "Collected Works",
+     "docs": 6,
+     "pages": 298,
+     "units": 228
+    },
+    {
+     "name": "Memoiren",
+     "category": "Memoirs",
+     "docs": 3,
+     "pages": 128,
+     "units": 94
+    },
+    {
+     "name": "Publikationslisten",
+     "category": "Kármán Publication Lists",
+     "docs": 2,
+     "pages": 91,
+     "units": 45
+    },
+    {
+     "name": "Zeichnungen",
+     "category": "Drawings",
+     "docs": 1,
+     "pages": 7,
+     "units": 6
+    }
+   ]
+  },
+  {
+   "id": "sachakten",
+   "name": "Sachakten und Projekte",
+   "children": [
+    {
+     "name": "Hängebrücken",
+     "category": "Bridges (Suspension)",
+     "docs": 94,
+     "pages": 4928,
+     "units": 1790
+    },
+    {
+     "name": "Patente",
+     "category": "Patents",
+     "docs": 64,
+     "pages": 2738,
+     "units": 1500
+    },
+    {
+     "name": "Windturbinen",
+     "category": "Wind Turbines",
+     "docs": 61,
+     "pages": 2693,
+     "units": 1303
+    },
+    {
+     "name": "Hydraulik",
+     "category": "Hydraulics",
+     "docs": 42,
+     "pages": 1813,
+     "units": 965
+    },
+    {
+     "name": "Unterseeboote",
+     "category": "Submarines",
+     "docs": 4,
+     "pages": 271,
+     "units": 138
+    },
+    {
+     "name": "Höhenflug",
+     "category": "High-Altitude Flight",
+     "docs": 4,
+     "pages": 252,
+     "units": 62
+    },
+    {
+     "name": "Laminare Flammenausbreitung",
+     "category": "Laminar Flame Propagation",
+     "docs": 4,
+     "pages": 230,
+     "units": 25
+    },
+    {
+     "name": "Aerodynamik",
+     "category": "Aerodynamics",
+     "docs": 4,
+     "pages": 165,
+     "units": 117
+    },
+    {
+     "name": "Segelflugzeuge",
+     "category": "Gliders",
+     "docs": 4,
+     "pages": 156,
+     "units": 68
+    },
+    {
+     "name": "Plastizität",
+     "category": "Plasticity",
+     "docs": 2,
+     "pages": 133,
+     "units": 41
+    },
+    {
+     "name": "Luftschiffe",
+     "category": "Airships",
+     "docs": 2,
+     "pages": 114,
+     "units": 37
+    },
+    {
+     "name": "Propeller und Turbinen",
+     "category": "Propellers & Turbines",
+     "docs": 2,
+     "pages": 103,
+     "units": 46
+    },
+    {
+     "name": "Windkanäle",
+     "category": "Wind Tunnels",
+     "docs": 3,
+     "pages": 97,
+     "units": 30
+    },
+    {
+     "name": "Sachakten, Verschiedenes",
+     "category": "Subject Files",
+     "docs": 3,
+     "pages": 85,
+     "units": 38
+    },
+    {
+     "name": "Glas",
+     "category": "Glass",
+     "docs": 2,
+     "pages": 81,
+     "units": 27
+    },
+    {
+     "name": "Erdbebenberichte",
+     "category": "Earthquake Reports",
+     "docs": 2,
+     "pages": 74,
+     "units": 17
+    },
+    {
+     "name": "Atmosphärische Diffusion",
+     "category": "Atmospheric Diffusion",
+     "docs": 2,
+     "pages": 66,
+     "units": 55
+    },
+    {
+     "name": "Antrieb",
+     "category": "Propulsion",
+     "docs": 1,
+     "pages": 24,
+     "units": 12
+    },
+    {
+     "name": "Oberflächenreibung",
+     "category": "Skin Friction",
+     "docs": 1,
+     "pages": 20,
+     "units": 11
+    },
+    {
+     "name": "Autobahn Frankfurt",
+     "category": "Autobahn Frankfurt",
+     "docs": 1,
+     "pages": 17,
+     "units": 7
+    },
+    {
+     "name": "Betonwände",
+     "category": "Concrete Walls",
+     "docs": 1,
+     "pages": 16,
+     "units": 7
+    }
+   ]
+  },
+  {
+   "id": "fremde",
+   "name": "Arbeiten anderer Autoren",
+   "children": [
+    {
+     "name": "Arbeiten anderer Autoren",
+     "category": "Papers by Other Writers",
+     "docs": 242,
+     "pages": 8314,
+     "units": 1285
+    },
+    {
+     "name": "Buchbesprechungen",
+     "category": "Book Reviews",
+     "docs": 1,
+     "pages": 52,
+     "units": 43
+    }
+   ]
+  }
+ ]
+}

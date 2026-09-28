@@ -1,0 +1,52 @@
+[
+ {
+  "id": "k1",
+  "num": 1,
+  "title": "Ein Nachlass in Kisten"
+ },
+ {
+  "id": "k2",
+  "num": 2,
+  "title": "Was der Bestand enthält"
+ },
+ {
+  "id": "k3",
+  "num": 3,
+  "title": "Fünf Jahrzehnte Korrespondenz"
+ },
+ {
+  "id": "k4",
+  "num": 4,
+  "title": "Von Aachen nach Pasadena"
+ },
+ {
+  "id": "k5",
+  "num": 5,
+  "title": "Sprachen"
+ },
+ {
+  "id": "k6",
+  "num": 6,
+  "title": "Korrespondenten"
+ },
+ {
+  "id": "k7",
+  "num": 7,
+  "title": "Themen"
+ },
+ {
+  "id": "k8",
+  "num": 8,
+  "title": "Manuskripte und Vorlesungen"
+ },
+ {
+  "id": "k9",
+  "num": 9,
+  "title": "Forschen mit Notebooks"
+ },
+ {
+  "id": "k10",
+  "num": 10,
+  "title": "Ausblick"
+ }
+]

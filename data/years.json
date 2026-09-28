@@ -1,0 +1,432 @@
+{
+ "years": [
+  {
+   "y": 1895,
+   "n": 0,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1896,
+   "n": 1,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1897,
+   "n": 0,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1898,
+   "n": 1,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1899,
+   "n": 0,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1900,
+   "n": 3,
+   "letters": 3,
+   "karman": 3
+  },
+  {
+   "y": 1901,
+   "n": 12,
+   "letters": 11,
+   "karman": 11
+  },
+  {
+   "y": 1902,
+   "n": 2,
+   "letters": 2,
+   "karman": 2
+  },
+  {
+   "y": 1903,
+   "n": 2,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1904,
+   "n": 2,
+   "letters": 1,
+   "karman": 2
+  },
+  {
+   "y": 1905,
+   "n": 20,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1906,
+   "n": 1,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1907,
+   "n": 9,
+   "letters": 3,
+   "karman": 3
+  },
+  {
+   "y": 1908,
+   "n": 12,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1909,
+   "n": 2,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1910,
+   "n": 5,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1911,
+   "n": 5,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1912,
+   "n": 8,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1913,
+   "n": 10,
+   "letters": 3,
+   "karman": 3
+  },
+  {
+   "y": 1914,
+   "n": 11,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1915,
+   "n": 12,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1916,
+   "n": 10,
+   "letters": 1,
+   "karman": 0
+  },
+  {
+   "y": 1917,
+   "n": 11,
+   "letters": 1,
+   "karman": 1
+  },
+  {
+   "y": 1918,
+   "n": 29,
+   "letters": 6,
+   "karman": 3
+  },
+  {
+   "y": 1919,
+   "n": 21,
+   "letters": 6,
+   "karman": 3
+  },
+  {
+   "y": 1920,
+   "n": 56,
+   "letters": 30,
+   "karman": 28
+  },
+  {
+   "y": 1921,
+   "n": 153,
+   "letters": 75,
+   "karman": 62
+  },
+  {
+   "y": 1922,
+   "n": 140,
+   "letters": 88,
+   "karman": 76
+  },
+  {
+   "y": 1923,
+   "n": 104,
+   "letters": 53,
+   "karman": 52
+  },
+  {
+   "y": 1924,
+   "n": 104,
+   "letters": 68,
+   "karman": 67
+  },
+  {
+   "y": 1925,
+   "n": 162,
+   "letters": 123,
+   "karman": 120
+  },
+  {
+   "y": 1926,
+   "n": 164,
+   "letters": 102,
+   "karman": 103
+  },
+  {
+   "y": 1927,
+   "n": 155,
+   "letters": 118,
+   "karman": 84
+  },
+  {
+   "y": 1928,
+   "n": 262,
+   "letters": 227,
+   "karman": 225
+  },
+  {
+   "y": 1929,
+   "n": 119,
+   "letters": 83,
+   "karman": 88
+  },
+  {
+   "y": 1930,
+   "n": 181,
+   "letters": 125,
+   "karman": 116
+  },
+  {
+   "y": 1931,
+   "n": 133,
+   "letters": 88,
+   "karman": 82
+  },
+  {
+   "y": 1932,
+   "n": 107,
+   "letters": 81,
+   "karman": 75
+  },
+  {
+   "y": 1933,
+   "n": 139,
+   "letters": 86,
+   "karman": 82
+  },
+  {
+   "y": 1934,
+   "n": 147,
+   "letters": 87,
+   "karman": 81
+  },
+  {
+   "y": 1935,
+   "n": 193,
+   "letters": 126,
+   "karman": 96
+  },
+  {
+   "y": 1936,
+   "n": 246,
+   "letters": 172,
+   "karman": 150
+  },
+  {
+   "y": 1937,
+   "n": 147,
+   "letters": 101,
+   "karman": 95
+  },
+  {
+   "y": 1938,
+   "n": 308,
+   "letters": 147,
+   "karman": 127
+  },
+  {
+   "y": 1939,
+   "n": 460,
+   "letters": 285,
+   "karman": 201
+  },
+  {
+   "y": 1940,
+   "n": 821,
+   "letters": 565,
+   "karman": 395
+  },
+  {
+   "y": 1941,
+   "n": 577,
+   "letters": 380,
+   "karman": 298
+  },
+  {
+   "y": 1942,
+   "n": 279,
+   "letters": 201,
+   "karman": 132
+  },
+  {
+   "y": 1943,
+   "n": 268,
+   "letters": 205,
+   "karman": 123
+  },
+  {
+   "y": 1944,
+   "n": 187,
+   "letters": 118,
+   "karman": 47
+  },
+  {
+   "y": 1945,
+   "n": 135,
+   "letters": 93,
+   "karman": 70
+  },
+  {
+   "y": 1946,
+   "n": 160,
+   "letters": 130,
+   "karman": 113
+  },
+  {
+   "y": 1947,
+   "n": 272,
+   "letters": 207,
+   "karman": 136
+  },
+  {
+   "y": 1948,
+   "n": 111,
+   "letters": 76,
+   "karman": 73
+  },
+  {
+   "y": 1949,
+   "n": 121,
+   "letters": 83,
+   "karman": 81
+  },
+  {
+   "y": 1950,
+   "n": 221,
+   "letters": 174,
+   "karman": 123
+  },
+  {
+   "y": 1951,
+   "n": 181,
+   "letters": 147,
+   "karman": 115
+  },
+  {
+   "y": 1952,
+   "n": 158,
+   "letters": 127,
+   "karman": 114
+  },
+  {
+   "y": 1953,
+   "n": 151,
+   "letters": 106,
+   "karman": 91
+  },
+  {
+   "y": 1954,
+   "n": 157,
+   "letters": 106,
+   "karman": 98
+  },
+  {
+   "y": 1955,
+   "n": 212,
+   "letters": 146,
+   "karman": 129
+  },
+  {
+   "y": 1956,
+   "n": 232,
+   "letters": 189,
+   "karman": 155
+  },
+  {
+   "y": 1957,
+   "n": 132,
+   "letters": 96,
+   "karman": 82
+  },
+  {
+   "y": 1958,
+   "n": 143,
+   "letters": 99,
+   "karman": 93
+  },
+  {
+   "y": 1959,
+   "n": 157,
+   "letters": 112,
+   "karman": 93
+  },
+  {
+   "y": 1960,
+   "n": 101,
+   "letters": 71,
+   "karman": 69
+  },
+  {
+   "y": 1961,
+   "n": 165,
+   "letters": 109,
+   "karman": 100
+  },
+  {
+   "y": 1962,
+   "n": 91,
+   "letters": 50,
+   "karman": 48
+  },
+  {
+   "y": 1963,
+   "n": 12,
+   "letters": 11,
+   "karman": 6
+  },
+  {
+   "y": 1964,
+   "n": 0,
+   "letters": 0,
+   "karman": 0
+  },
+  {
+   "y": 1965,
+   "n": 1,
+   "letters": 0,
+   "karman": 0
+  }
+ ],
+ "n_dated": 8716,
+ "n_undated": 6433
+}

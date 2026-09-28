@@ -1,0 +1,20 @@
+{
+ "admission": [
+  "Originale und Rechte sind benannt.",
+  "Die Sammlung ist eine PDAI-Sammlung mit dem Status search_ready.",
+  "Ein Viewer öffnet jedes Dokument über eine stabile Adresse.",
+  "Die Zahlen der Sammlung stammen aus demselben Build und stehen im Manifest."
+ ],
+ "sources": [
+  {
+   "id": "karman-nachlass",
+   "title": "Nachlass Theodore von Kármán",
+   "originals": "California Institute of Technology, Caltech Archives, Theodore von Kármán Collection",
+   "edition": "Digitale Edition: Gerd Graßhoff, mit Genehmigung des California Institute of Technology",
+   "viewer": "https://lettre.ngrok.dev/karman/",
+   "status": "search_ready",
+   "n_documents": 1066,
+   "n_pages": 38172
+  }
+ ]
+}
