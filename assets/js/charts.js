@@ -282,7 +282,7 @@
       { color: C.oxford, label: 'Kármán als Absender oder Empfänger' },
       { color: C.gold, label: 'übrige datierte Einheiten' },
     ]);
-    note(el, `${fmt(Y.n_dated)} datierte Einheiten; ${fmt(Y.n_undated)} Einheiten tragen kein lesbares Jahr und fehlen in dieser Grafik. Periodenbänder vorläufig.`);
+    note(el, `${fmt(Y.n_dated)} datierte Einheiten; ${fmt(Y.n_undated)} Einheiten tragen kein lesbares Jahr und fehlen in dieser Grafik.`);
     function update(step) {
       ann.transition().duration(400).attr('opacity', step >= 1 ? 1 : 0);
       bands.transition().duration(400).attr('opacity', step >= 2 ? 1 : 0.35);
@@ -719,10 +719,10 @@
       if (c.data_year == null) return;
       const p = periods().find(pp => pp.id === c.period);
       s.append('circle').attr('cx', x(c.data_year)).attr('cy', H - m.b - 6).attr('r', 5).attr('fill', '#fff').attr('stroke', PERIOD_COLORS[p.id]).attr('stroke-width', 2)
-        .on('mousemove', e => showTip(e, `<b>Prüfung: ${esc(p.label)}</b><br>${esc(c.rule)}: ${c.data_year}<br>vorgeschlagene Grenze ${c.boundary}, Abstand ${c.delta > 0 ? '+' : ''}${c.delta} Jahre`))
+        .on('mousemove', e => showTip(e, `<b>Prüfung: ${esc(p.label)}</b><br>${esc(c.rule)}: ${c.data_year}<br>Grenze ${c.boundary}, Abstand ${c.delta > 0 ? '+' : ''}${c.delta} Jahre`))
         .on('mouseleave', hideTip);
     });
-    note(el, 'Anteil der Einheiten mit Ortsangabe, die aus der Stadt stammen (nur Jahre mit mindestens 15 Einheiten mit Ort). Gestrichelt: vorgeschlagene Periodengrenzen; Kreise: das Jahr, in dem die jeweilige Prüfregel zuerst erfüllt ist.');
+    note(el, 'Anteil der Einheiten mit Ortsangabe, die aus der Stadt stammen (nur Jahre mit mindestens 15 Einheiten mit Ort). Gestrichelt: Periodengrenzen; Kreise: das Jahr, in dem die jeweilige Prüfregel zuerst erfüllt ist.');
     return { update() {} };
   };
 

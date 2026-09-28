@@ -6,8 +6,8 @@
    "short": "Studium",
    "from": 1896,
    "to": 1912,
-   "status": "proposed",
-   "source": "Biographie: Studium an der TH Budapest, ab 1906 Göttingen (Promotion bei Prandtl 1908). Bestätigung durch den Autor ausstehend.",
+   "status": "confirmed",
+   "source": "Biographie: Studium an der TH Budapest, ab 1906 Göttingen (Promotion bei Prandtl 1908). Vom Autor bestätigt am 28. September 2026.",
    "note": "Die Studienjahre sind im PDAI-Bestand nur schwach belegt; die meisten Einheiten dieser Zeit sind spätere Abschriften oder Rückblicke.",
    "subbands": [],
    "n_units": 85,
@@ -335,15 +335,19 @@
      "n": 3
     },
     {
-     "name": "London City and Guilds",
-     "n": 3
-    },
-    {
      "name": "British Daimler Motor Co.",
      "n": 3
     },
     {
+     "name": "London City and Guilds",
+     "n": 3
+    },
+    {
      "name": "Office National de la Propriété Industrielle",
+     "n": 3
+    },
+    {
+     "name": "London University",
      "n": 3
     },
     {
@@ -352,10 +356,6 @@
     },
     {
      "name": "Royal College of Science and Technology",
-     "n": 3
-    },
-    {
-     "name": "Central Technical College",
      "n": 3
     }
    ],
@@ -477,8 +477,8 @@
    "short": "Aachen",
    "from": 1913,
    "to": 1929,
-   "status": "proposed",
-   "source": "Biographie: Berufung an die TH Aachen 1913; 1914–1918 Kriegsdienst in der k.u.k. Luftfahrtruppe (Fischamend). Bestätigung durch den Autor ausstehend.",
+   "status": "confirmed",
+   "source": "Biographie: Berufung an die TH Aachen 1913; 1914–1918 Kriegsdienst in der k.u.k. Luftfahrtruppe (Fischamend). Vom Autor bestätigt am 28. September 2026.",
    "note": null,
    "subbands": [
     {
@@ -999,8 +999,8 @@
    "short": "Pasadena",
    "from": 1930,
    "to": 1941,
-   "status": "proposed",
-   "source": "Biographie: Leitung des Guggenheim Aeronautical Laboratory am California Institute of Technology (GALCIT) ab 1930. Bestätigung durch den Autor ausstehend.",
+   "status": "confirmed",
+   "source": "Biographie: Leitung des Guggenheim Aeronautical Laboratory am California Institute of Technology (GALCIT) ab 1930. Vom Autor bestätigt am 28. September 2026.",
    "note": null,
    "subbands": [],
    "n_units": 3459,
@@ -1496,8 +1496,8 @@
    "short": "Beratung",
    "from": 1942,
    "to": 1950,
-   "status": "proposed",
-   "source": "Biographie: Kriegseintritt der USA im Dezember 1941; Jet Propulsion Laboratory 1944; Leitung der Scientific Advisory Group der Army Air Forces ab 1944, danach Scientific Advisory Board. Bestätigung durch den Autor ausstehend.",
+   "status": "confirmed",
+   "source": "Biographie: Kriegseintritt der USA im Dezember 1941; Jet Propulsion Laboratory 1944; Leitung der Scientific Advisory Group der Army Air Forces ab 1944, danach Scientific Advisory Board. Vom Autor bestätigt am 28. September 2026.",
    "note": null,
    "subbands": [],
    "n_units": 1754,
@@ -2012,8 +2012,8 @@
    "short": "AGARD",
    "from": 1951,
    "to": 1963,
-   "status": "proposed",
-   "source": "Biographie: Vorsitz der Advisory Group for Aeronautical Research and Development (AGARD) der NATO ab 1951/52; Tod am 6. Mai 1963 in Aachen. Bestätigung durch den Autor ausstehend.",
+   "status": "confirmed",
+   "source": "Biographie: Vorsitz der Advisory Group for Aeronautical Research and Development (AGARD) der NATO ab 1951/52; Tod am 6. Mai 1963 in Aachen. Vom Autor bestätigt am 28. September 2026.",
    "note": null,
    "subbands": [],
    "n_units": 1892,
